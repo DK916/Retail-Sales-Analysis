@@ -1,0 +1,1006 @@
+Order ID,Order Date,Customer ID,Gender,Age,Product,Category,Quantity,Unit Price,Total Sales,Payment Method,Region
+ORD1001,2023-03-13,CUST288,Female,36.0,Shirt,Clothing,3,1100,3300,Debit Card,East
+ORD1002,2024-10-23,CUST152,Other,61.0,Running Shoes,Sports,3,2900,8700,Credit Card,West
+ORD1003,2023-01-22,CUST188,Male,59.0,Headphones,Electronics,2,2500,5000,Cash,West
+ORD1004,2024-07-20,CUST163,Male,54.0,Jacket,Clothing,4,2800,11200,Debit Card,Central
+ORD1005,2024-08-23,CUST159,Female,26.0,Jeans,Clothing,4,1600,6400,Credit Card,Central
+ORD1006,2024-03-30,CUST271,Female,64.0,Sneakers,Clothing,4,3200,12800,Debit Card,North
+ORD1007,2024-01-25,CUST153,Female,46.0,Sneakers,Clothing,2,3200,6400,Credit Card,South
+ORD1008,2023-09-27,CUST194,Female,25.0,Jeans,Clothing,4,1600,6400,Cash,North
+ORD1009,2023-12-04,CUST210,Female,43.0,Gym Bag,Sports,5,1000,5000,UPI,West
+ORD1010,2023-06-06,CUST114,Male,42.0,Water Bottle,Home & Kitchen,1,400,400,UPI,North
+ORD1011,2024-08-15,CUST235,Female,50.0,Keyboard,Electronics,3,1200,3600,Debit Card,Central
+ORD1012,2023-01-28,CUST234,Female,29.0,Dumbbells,Sports,1,1400,1400,Credit Card,North
+ORD1013,2024-11-14,CUST203,Male,52.0,Smartphone,Electronics,3,22000,66000,UPI,East
+ORD1014,2023-01-05,CUST241,Female,26.0,Keyboard,Electronics,1,1200,1200,Credit Card,South
+ORD1015,2024-07-17,CUST195,Female,54.0,Jacket,Clothing,1,2800,2800,Net Banking,East
+ORD1016,2023-08-31,CUST185,Female,59.0,Smartphone,Electronics,3,22000,66000,Net Banking,North
+ORD1017,2024-09-11,CUST143,Male,28.0,Headphones,Electronics,4,2500,10000,Credit Card,West
+ORD1018,2024-01-12,CUST126,Male,30.0,T-Shirt,Clothing,1,600,600,UPI,East
+ORD1019,2023-11-14,CUST264,Female,59.0,Keyboard,Electronics,1,1200,1200,Cash,East
+ORD1020,2023-04-23,CUST161,Other,29.0,T-Shirt,Clothing,4,600,2400,Credit Card,East
+ORD1021,2024-11-29,CUST212,Other,45.0,T-Shirt,Clothing,1,600,600,Net Banking,North
+ORD1022,2024-11-14,CUST259,Female,21.0,Cookware Set,Home & Kitchen,5,3500,17500,Debit Card,East
+ORD1023,2024-09-01,CUST297,Male,65.0,Shirt,Clothing,4,1100,4400,,North
+ORD1024,2024-10-21,CUST286,Male,43.0,Shirt,Clothing,3,1100,3300,Debit Card,East
+ORD1025,2024-10-01,CUST138,Female,18.0,Sneakers,Clothing,1,3200,3200,Debit Card,West
+ORD1026,2024-09-02,CUST106,Female,43.0,Shampoo,Beauty,2,320,640,UPI,West
+ORD1027,2023-10-31,CUST239,Female,49.0,Cookware Set,Home & Kitchen,1,3500,3500,Debit Card,North
+ORD1028,2024-02-08,CUST251,Male,50.0,Jacket,Clothing,3,2800,8400,Cash,East
+ORD1029,2023-09-11,CUST211,Male,52.0,Running Shoes,Sports,4,2900,11600,UPI,Central
+ORD1030,2023-06-12,CUST288,Male,50.0,Jeans,Clothing,2,1600,3200,Cash,North
+ORD1031,2024-02-05,CUST227,Female,29.0,Lamp,Home & Kitchen,3,900,2700,Debit Card,East
+ORD1032,2024-03-13,CUST107,Female,51.0,Water Bottle,Home & Kitchen,3,400,1200,Net Banking,North
+ORD1033,2024-10-20,CUST103,Male,34.0,Mixer,Home & Kitchen,5,2400,12000,Cash,West
+ORD1034,2023-02-06,CUST123,Male,63.0,Shirt,Clothing,3,1100,3300,Net Banking,East
+ORD1035,2023-06-10,CUST166,Male,42.0,Running Shoes,Sports,5,2900,14500,Credit Card,South
+ORD1036,2024-09-30,CUST254,Male,43.0,Dumbbells,Sports,2,1400,2800,UPI,North
+ORD1037,2024-06-21,CUST198,Male,41.0,Smartphone,Electronics,2,22000,44000,Net Banking,West
+ORD1038,2024-11-15,CUST119,Female,63.0,Mixer,Home & Kitchen,4,2400,9600,Cash,East
+ORD1039,2024-12-27,CUST290,Male,42.0,Sneakers,Clothing,2,3200,6400,Credit Card,Central
+ORD1040,2024-11-22,CUST269,Female,60.0,Shampoo,Beauty,1,320,320,Cash,Central
+ORD1041,2024-09-11,CUST104,Male,23.0,Water Bottle,Home & Kitchen,4,400,1600,Net Banking,West
+ORD1042,2024-10-17,CUST112,Other,59.0,Jacket,Clothing,4,2800,11200,Debit Card,North
+ORD1043,2023-02-27,CUST282,Male,43.0,Jacket,Clothing,4,2800,11200,Net Banking,North
+ORD1044,2024-09-25,CUST100,Male,49.0,Face Wash,Beauty,2,250,500,UPI,Central
+ORD1045,2023-09-04,CUST294,Male,33.0,Shirt,Clothing,5,1100,5500,Debit Card,Central
+ORD1046,2023-03-10,CUST146,Male,63.0,Smartphone,Electronics,4,22000,88000,,Central
+ORD1047,2024-03-07,CUST184,Male,50.0,Cookware Set,Home & Kitchen,2,3500,7000,Net Banking,South
+ORD1048,2023-06-29,CUST237,Female,49.0,Water Bottle,Home & Kitchen,4,400,1600,UPI,Central
+ORD1049,2023-06-09,CUST183,Female,52.0,Shampoo,Beauty,1,320,320,Cash,North
+ORD1050,2024-09-04,CUST111,Male,50.0,Jacket,Clothing,3,2800,8400,Credit Card,East
+ORD1051,2024-08-29,CUST145,Male,52.0,Smartphone,Electronics,4,22000,88000,UPI,South
+ORD1052,2024-08-24,CUST261,Male,24.0,Jeans,Clothing,2,1600,3200,Cash,South
+ORD1053,2024-02-17,CUST219,Female,38.0,Perfume,Beauty,3,1800,5400,Net Banking,North
+ORD1054,2023-07-11,CUST276,Female,53.0,Water Bottle,Home & Kitchen,1,400,400,Credit Card,North
+ORD1055,2024-01-04,CUST282,Female,42.0,Perfume,Beauty,4,1800,7200,Debit Card,North
+ORD1056,2024-12-29,CUST185,Male,36.0,T-Shirt,Clothing,4,600,2400,UPI,West
+ORD1057,2023-03-17,CUST108,Male,31.0,Laptop,Electronics,3,55000,165000,Cash,East
+ORD1058,2023-04-09,CUST239,Male,38.0,Water Bottle,Home & Kitchen,5,400,2000,Cash,Central
+ORD1059,2024-11-23,CUST141,Other,31.0,Face Wash,Beauty,5,250,1250,Credit Card,Central
+ORD1060,2024-10-19,CUST175,Female,61.0,Perfume,Beauty,3,1800,5400,UPI,Central
+ORD1061,2024-01-28,CUST277,Female,19.0,Perfume,Beauty,2,1800,3600,Net Banking,Central
+ORD1062,2023-12-08,CUST244,Female,42.0,Keyboard,Electronics,5,1200,6000,Net Banking,West
+ORD1063,2024-03-20,CUST207,Female,44.0,Sneakers,Clothing,3,3200,9600,Credit Card,South
+ORD1064,2024-10-14,CUST225,Male,45.0,Jacket,Clothing,5,2800,14000,Net Banking,North
+ORD1065,2023-12-14,CUST289,Male,42.0,Moisturizer,Beauty,5,450,2250,UPI,Central
+ORD1066,2024-11-02,CUST272,Male,38.0,Running Shoes,Sports,5,2900,14500,Net Banking,East
+ORD1067,2024-10-20,CUST119,Male,64.0,Running Shoes,Sports,3,2900,8700,UPI,North
+ORD1068,2024-07-19,CUST217,Male,40.0,Face Wash,Beauty,5,250,1250,UPI,East
+ORD1069,2024-01-08,CUST107,Male,53.0,Sneakers,Clothing,4,3200,12800,Credit Card,South
+ORD1070,2023-02-10,CUST291,Male,34.0,Sneakers,Clothing,4,3200,12800,UPI,North
+ORD1071,2024-07-11,CUST134,Female,35.0,Shirt,Clothing,4,1100,4400,Debit Card,Central
+ORD1072,2023-08-30,CUST208,Male,50.0,Cookware Set,Home & Kitchen,2,3500,7000,UPI,South
+ORD1073,2023-10-09,CUST162,Male,44.0,Yoga Mat,Sports,3,800,2400,UPI,Central
+ORD1074,2024-05-25,CUST228,Male,23.0,Laptop,Electronics,3,55000,165000,Cash,North
+ORD1075,2024-03-12,CUST122,Female,54.0,Water Bottle,Home & Kitchen,3,400,1200,Credit Card,South
+ORD1076,2023-01-01,CUST150,Male,21.0,Shirt,Clothing,1,1100,1100,UPI,North
+ORD1077,2023-04-05,CUST171,Male,51.0,Shampoo,Beauty,4,320,1280,Debit Card,East
+ORD1078,2024-01-24,CUST156,Female,64.0,T-Shirt,Clothing,4,600,2400,Net Banking,Central
+ORD1079,2023-04-13,CUST265,Female,51.0,Bedsheet,Home & Kitchen,3,1300,3900,Credit Card,South
+ORD1080,2024-03-22,CUST151,Female,50.0,Bedsheet,Home & Kitchen,3,1300,3900,Cash,South
+ORD1081,2023-05-18,CUST283,Female,34.0,Gym Bag,Sports,5,1000,5000,Cash,West
+ORD1082,2024-03-25,CUST225,Female,65.0,Jeans,Clothing,5,1600,8000,Debit Card,East
+ORD1083,2023-12-26,CUST231,Male,20.0,Bedsheet,Home & Kitchen,4,1300,5200,Debit Card,East
+ORD1084,2024-09-25,CUST150,Male,22.0,Cookware Set,Home & Kitchen,5,3500,17500,,West
+ORD1085,2024-10-06,CUST111,Male,51.0,Shirt,Clothing,1,1100,1100,UPI,South
+ORD1086,2023-09-06,CUST146,Female,64.0,Face Wash,Beauty,2,250,500,Debit Card,Central
+ORD1087,2023-01-08,CUST212,Female,32.0,Headphones,Electronics,1,2500,2500,Credit Card,West
+ORD1088,2024-10-27,CUST113,Male,24.0,Jeans,Clothing,5,1600,8000,Debit Card,East
+ORD1089,2024-05-20,CUST137,Female,32.0,Water Bottle,Home & Kitchen,2,400,800,UPI,Central
+ORD1090,2023-08-19,CUST185,Male,61.0,Laptop,Electronics,1,55000,55000,UPI,North
+ORD1091,2024-01-29,CUST166,Female,35.0,T-Shirt,Clothing,4,600,2400,Cash,South
+ORD1092,2024-08-17,CUST141,Male,23.0,Mixer,Home & Kitchen,4,2400,9600,Cash,South
+ORD1093,2024-01-12,CUST132,Male,38.0,Bedsheet,Home & Kitchen,3,1300,3900,Cash,East
+ORD1094,2023-08-31,CUST130,Male,53.0,Laptop,Electronics,3,55000,165000,Credit Card,West
+ORD1095,2024-08-28,CUST278,Female,19.0,Running Shoes,Sports,1,2900,2900,Debit Card,South
+ORD1096,2023-11-22,CUST253,Male,,Sneakers,Clothing,5,3200,16000,Cash,North
+ORD1097,2023-03-31,CUST241,Male,54.0,Sunscreen,Beauty,1,550,550,Debit Card,West
+ORD1098,2024-11-20,CUST109,Female,27.0,Jacket,Clothing,1,2800,2800,Cash,South
+ORD1099,2023-11-17,CUST162,Female,34.0,Jeans,Clothing,4,1600,6400,UPI,East
+ORD1100,2024-08-03,CUST161,Female,31.0,Bedsheet,Home & Kitchen,1,1300,1300,Net Banking,East
+ORD1101,2024-06-30,CUST100,Female,39.0,Running Shoes,Sports,3,2900,8700,Cash,Central
+ORD1102,2023-09-27,CUST159,Male,38.0,Laptop,Electronics,5,55000,275000,Net Banking,Central
+ORD1103,2024-08-23,CUST141,Male,57.0,Jeans,Clothing,4,1600,6400,Debit Card,Central
+ORD1104,2023-05-25,CUST293,Female,57.0,T-Shirt,Clothing,1,600,600,Debit Card,East
+ORD1105,2024-07-07,CUST291,Male,64.0,Jacket,Clothing,3,2800,8400,Net Banking,North
+ORD1106,2023-06-06,CUST137,Female,54.0,Bedsheet,Home & Kitchen,4,1300,5200,Debit Card,North
+ORD1107,2024-05-31,CUST222,Female,55.0,Mouse,Electronics,2,700,1400,Net Banking,West
+ORD1108,2024-10-09,CUST104,Female,21.0,Sneakers,Clothing,5,3200,16000,Cash,Central
+ORD1109,2023-10-19,CUST125,Male,22.0,Moisturizer,Beauty,3,450,1350,Cash,East
+ORD1110,2024-01-31,CUST240,Male,35.0,Dumbbells,Sports,3,1400,4200,UPI,North
+ORD1111,2024-04-04,CUST199,Female,22.0,Headphones,Electronics,3,2500,7500,Net Banking,South
+ORD1112,2023-02-20,CUST128,Male,58.0,Shampoo,Beauty,1,320,320,Debit Card,North
+ORD1113,2024-09-13,CUST263,Male,18.0,Smartphone,Electronics,2,22000,44000,Debit Card,Central
+ORD1114,2023-07-21,CUST279,Female,43.0,Shirt,Clothing,1,1100,1100,UPI,East
+ORD1115,2023-03-16,CUST137,Male,35.0,T-Shirt,Clothing,2,600,1200,Debit Card,South
+ORD1116,2023-06-28,CUST281,Male,24.0,Football,Sports,3,900,2700,Cash,Central
+ORD1117,2023-03-04,CUST249,Male,38.0,Yoga Mat,Sports,5,800,4000,UPI,North
+ORD1118,2024-09-21,CUST185,Male,57.0,Yoga Mat,Sports,4,800,3200,UPI,North
+ORD1119,2024-12-23,CUST161,Male,46.0,Jacket,Clothing,3,2800,8400,UPI,Central
+ORD1120,2024-08-12,CUST214,Male,19.0,Jacket,Clothing,2,2800,5600,Cash,North
+ORD1121,2023-09-21,CUST256,Male,20.0,Jacket,Clothing,4,2800,11200,Credit Card,South
+ORD1122,2023-03-28,CUST154,Male,24.0,Dumbbells,Sports,4,1400,5600,Net Banking,North
+ORD1123,2023-11-24,CUST153,Male,54.0,Bedsheet,Home & Kitchen,3,1300,3900,Debit Card,East
+ORD1124,2023-04-06,CUST187,Female,63.0,Cookware Set,Home & Kitchen,3,3500,10500,Debit Card,West
+ORD1125,2023-01-07,CUST173,Male,40.0,Gym Bag,Sports,2,1000,2000,Net Banking,East
+ORD1126,2023-10-12,CUST287,Female,18.0,Keyboard,Electronics,4,1200,4800,Net Banking,West
+ORD1127,2024-04-15,CUST218,Male,22.0,Jeans,Clothing,3,1600,4800,Net Banking,North
+ORD1128,2024-05-14,CUST185,Female,34.0,Sneakers,Clothing,3,3200,9600,Credit Card,East
+ORD1129,2023-04-25,CUST113,Female,19.0,Yoga Mat,Sports,2,800,1600,Net Banking,North
+ORD1130,2024-10-27,CUST285,Female,51.0,Jacket,Clothing,4,2800,11200,Net Banking,East
+ORD1131,2023-12-22,CUST140,Male,34.0,Perfume,Beauty,2,1800,3600,Net Banking,North
+ORD1132,2023-12-08,CUST126,Female,23.0,Lamp,Home & Kitchen,5,900,4500,Debit Card,South
+ORD1133,2024-03-30,CUST237,Female,43.0,Mixer,Home & Kitchen,5,2400,12000,Net Banking,West
+ORD1134,2023-12-29,CUST292,Male,53.0,Shampoo,Beauty,4,320,1280,Debit Card,South
+ORD1135,2024-05-26,CUST263,Female,56.0,Keyboard,Electronics,3,1200,3600,Debit Card,South
+ORD1136,2024-07-01,CUST247,Male,60.0,Shirt,Clothing,1,1100,1100,UPI,East
+ORD1137,2023-06-03,CUST293,Male,26.0,Cookware Set,Home & Kitchen,1,3500,3500,UPI,North
+ORD1138,2023-01-25,CUST138,Male,54.0,Bedsheet,Home & Kitchen,2,1300,2600,Cash,West
+ORD1139,2023-10-02,CUST200,Male,34.0,Dumbbells,Sports,4,1400,5600,Credit Card,
+ORD1140,2024-10-22,CUST180,Female,33.0,Sneakers,Clothing,3,3200,9600,UPI,South
+ORD1141,2024-05-03,CUST208,Female,49.0,Bedsheet,Home & Kitchen,2,1300,2600,Credit Card,North
+ORD1142,2024-01-26,CUST113,Male,24.0,Smartphone,Electronics,2,22000,44000,UPI,East
+ORD1143,2024-12-27,CUST181,Female,56.0,Dumbbells,Sports,3,1400,4200,Debit Card,South
+ORD1144,2024-09-11,CUST287,Female,20.0,Mixer,Home & Kitchen,3,2400,7200,Net Banking,East
+ORD1145,2024-05-30,CUST192,Female,30.0,Sneakers,Clothing,1,3200,3200,Credit Card,North
+ORD1146,2024-03-25,CUST154,Male,51.0,Dumbbells,Sports,4,1400,5600,Debit Card,Central
+ORD1147,2023-02-08,CUST145,Male,46.0,Bedsheet,Home & Kitchen,3,1300,3900,Net Banking,West
+ORD1148,2023-09-23,CUST257,Male,56.0,Lamp,Home & Kitchen,1,900,900,Cash,Central
+ORD1149,2024-03-04,CUST241,Male,21.0,Face Wash,Beauty,3,250,750,Credit Card,Central
+ORD1150,2024-08-07,CUST242,Male,41.0,Laptop,Electronics,5,55000,275000,Cash,West
+ORD1151,2024-01-15,CUST297,Other,63.0,Gym Bag,Sports,5,1000,5000,Debit Card,Central
+ORD1152,2024-07-24,CUST171,Female,62.0,Running Shoes,Sports,4,2900,11600,Credit Card,East
+ORD1153,2024-05-20,CUST102,Female,22.0,Mouse,Electronics,1,700,700,Net Banking,North
+ORD1154,2024-07-26,CUST222,Male,35.0,Lamp,Home & Kitchen,2,900,1800,UPI,East
+ORD1155,2023-03-30,CUST172,Female,54.0,Perfume,Beauty,5,1800,9000,Credit Card,East
+ORD1156,2024-06-24,CUST236,Male,51.0,Football,Sports,3,900,2700,Cash,South
+ORD1157,2024-01-30,CUST286,Male,32.0,Face Wash,Beauty,5,250,1250,Debit Card,Central
+ORD1158,2023-11-12,CUST275,Female,22.0,Mouse,Electronics,5,700,3500,Net Banking,North
+ORD1159,2023-04-25,CUST285,Female,57.0,Smartphone,Electronics,5,22000,110000,Credit Card,East
+ORD1160,2023-12-02,CUST267,Male,65.0,Yoga Mat,Sports,3,800,2400,UPI,Central
+ORD1161,2023-06-19,CUST199,Female,55.0,Face Wash,Beauty,5,250,1250,Cash,Central
+ORD1162,2023-01-31,CUST122,Male,49.0,Dumbbells,Sports,1,1400,1400,Debit Card,Central
+ORD1163,2023-09-15,CUST176,Female,56.0,Shampoo,Beauty,4,320,1280,Credit Card,Central
+ORD1164,2023-01-17,CUST203,Male,41.0,Mixer,Home & Kitchen,1,2400,2400,Net Banking,East
+ORD1165,2023-08-21,CUST162,Male,32.0,Keyboard,Electronics,2,1200,2400,Net Banking,Central
+ORD1166,2023-08-30,CUST167,Male,34.0,Sunscreen,Beauty,4,550,2200,Cash,North
+ORD1167,2023-04-30,CUST149,Other,64.0,Mixer,Home & Kitchen,2,2400,4800,Net Banking,West
+ORD1168,2024-01-16,CUST106,Male,50.0,Moisturizer,Beauty,4,450,1800,Debit Card,East
+ORD1169,2024-03-05,CUST128,Female,52.0,Shampoo,Beauty,2,320,640,Net Banking,North
+ORD1170,2023-03-16,CUST215,Female,64.0,Smartphone,Electronics,5,22000,110000,Cash,East
+ORD1171,2024-03-15,CUST191,Female,64.0,T-Shirt,Clothing,4,600,2400,Net Banking,East
+ORD1172,2024-03-28,CUST230,Male,55.0,Football,Sports,1,900,900,Credit Card,Central
+ORD1173,2024-06-07,CUST117,Female,33.0,Laptop,Electronics,1,55000,55000,Debit Card,West
+ORD1174,2023-11-05,CUST107,Female,63.0,Laptop,Electronics,5,55000,275000,Credit Card,West
+ORD1175,2024-11-23,CUST123,Female,20.0,Smartphone,Electronics,4,22000,88000,Cash,North
+ORD1176,2024-06-04,CUST265,Male,39.0,Laptop,Electronics,4,55000,220000,Net Banking,
+ORD1177,2024-12-21,CUST171,Male,47.0,Bedsheet,Home & Kitchen,5,1300,6500,Credit Card,East
+ORD1178,2023-04-12,CUST268,Male,39.0,Face Wash,Beauty,4,250,1000,Debit Card,North
+ORD1179,2024-10-21,CUST260,Female,49.0,T-Shirt,Clothing,4,600,2400,Credit Card,West
+ORD1180,2024-08-11,CUST215,Male,56.0,Laptop,Electronics,1,55000,55000,Credit Card,South
+ORD1181,2023-04-16,CUST218,Female,57.0,Shampoo,Beauty,2,320,640,Debit Card,Central
+ORD1182,2023-12-25,CUST259,Male,29.0,Face Wash,Beauty,1,250,250,Credit Card,West
+ORD1183,2023-03-25,CUST231,Female,39.0,Moisturizer,Beauty,3,450,1350,Credit Card,East
+ORD1184,2023-01-14,CUST111,Male,30.0,Headphones,Electronics,2,2500,5000,UPI,Central
+ORD1185,2024-11-15,CUST235,Female,,Bedsheet,Home & Kitchen,4,1300,5200,Debit Card,West
+ORD1186,2024-10-23,CUST136,Other,58.0,Cookware Set,Home & Kitchen,3,3500,10500,Debit Card,East
+ORD1187,2024-03-20,CUST192,Male,32.0,Keyboard,Electronics,3,1200,3600,UPI,West
+ORD1188,2023-01-24,CUST247,Female,45.0,Smartphone,Electronics,2,22000,44000,Cash,West
+ORD1189,2024-08-30,CUST204,Male,51.0,Cookware Set,Home & Kitchen,1,3500,3500,Cash,South
+ORD1190,2024-01-06,CUST285,Female,29.0,Lamp,Home & Kitchen,2,900,1800,Debit Card,Central
+ORD1191,2024-06-03,CUST199,Female,40.0,Shirt,Clothing,1,1100,1100,Credit Card,West
+ORD1192,2024-07-06,CUST161,Male,64.0,Jeans,Clothing,5,1600,8000,UPI,West
+ORD1193,2023-01-28,CUST165,Female,22.0,Mixer,Home & Kitchen,3,2400,7200,UPI,West
+ORD1194,2023-01-10,CUST294,Male,33.0,Smartphone,Electronics,3,22000,66000,Credit Card,Central
+ORD1195,2023-05-13,CUST119,Female,29.0,T-Shirt,Clothing,1,600,600,UPI,North
+ORD1196,2023-05-01,CUST206,Female,54.0,Headphones,Electronics,4,2500,10000,Cash,Central
+ORD1197,2024-01-02,CUST233,Male,37.0,Sunscreen,Beauty,4,550,2200,Credit Card,South
+ORD1198,2023-10-09,CUST128,Female,52.0,Smartphone,Electronics,4,22000,88000,Net Banking,Central
+ORD1199,2024-11-21,CUST111,Male,41.0,Laptop,Electronics,1,55000,55000,Debit Card,East
+ORD1200,2023-07-04,CUST138,Male,64.0,Laptop,Electronics,2,55000,110000,Debit Card,South
+ORD1201,2023-11-04,CUST179,Female,25.0,Sneakers,Clothing,5,3200,16000,Credit Card,Central
+ORD1202,2024-05-09,CUST185,Male,18.0,Smartphone,Electronics,5,22000,110000,Credit Card,East
+ORD1203,2023-05-25,CUST125,Female,57.0,Shampoo,Beauty,2,320,640,UPI,West
+ORD1204,2023-01-01,CUST246,Female,31.0,Laptop,Electronics,4,55000,220000,Net Banking,Central
+ORD1205,2024-12-04,CUST297,Male,50.0,Lamp,Home & Kitchen,2,900,1800,UPI,North
+ORD1206,2024-08-11,CUST258,Female,21.0,Yoga Mat,Sports,5,800,4000,Credit Card,Central
+ORD1207,2024-03-29,CUST181,Female,40.0,Sunscreen,Beauty,3,550,1650,Debit Card,Central
+ORD1208,2024-10-16,CUST164,Male,24.0,Face Wash,Beauty,5,250,1250,Net Banking,East
+ORD1209,2023-11-01,CUST134,Male,43.0,T-Shirt,Clothing,1,600,600,Debit Card,East
+ORD1210,2023-01-03,CUST184,Female,65.0,Mouse,Electronics,2,700,1400,Credit Card,West
+ORD1211,2023-01-12,CUST232,Male,54.0,Mouse,Electronics,1,700,700,Cash,West
+ORD1212,2024-03-02,CUST120,Male,33.0,Cookware Set,Home & Kitchen,4,3500,14000,Net Banking,West
+ORD1213,2023-02-20,CUST114,Male,30.0,Running Shoes,Sports,3,2900,8700,Debit Card,South
+ORD1214,2024-07-17,CUST126,Female,45.0,Headphones,Electronics,5,2500,12500,Debit Card,South
+ORD1215,2024-08-11,CUST231,Female,47.0,Cookware Set,Home & Kitchen,2,3500,7000,Debit Card,West
+ORD1216,2024-03-20,CUST141,Female,37.0,Smartphone,Electronics,1,22000,22000,Cash,North
+ORD1217,2024-07-12,CUST222,Male,39.0,Shirt,Clothing,2,1100,2200,Net Banking,West
+ORD1218,2024-01-13,CUST220,Female,25.0,T-Shirt,Clothing,2,600,1200,UPI,South
+ORD1219,2024-10-25,CUST118,Female,56.0,Sneakers,Clothing,2,3200,6400,Credit Card,North
+ORD1220,2024-03-14,CUST168,Male,52.0,Headphones,Electronics,2,2500,5000,Cash,South
+ORD1221,2024-10-23,CUST275,Male,52.0,Water Bottle,Home & Kitchen,1,400,400,Cash,East
+ORD1222,2024-03-16,CUST252,Other,52.0,Shirt,Clothing,5,1100,5500,Net Banking,South
+ORD1223,2024-04-03,CUST123,Male,36.0,Shirt,Clothing,1,1100,1100,Cash,South
+ORD1224,2023-12-19,CUST263,Male,25.0,Shirt,Clothing,4,1100,4400,UPI,East
+ORD1225,2024-07-14,CUST159,Male,22.0,Sneakers,Clothing,5,3200,16000,Cash,East
+ORD1226,2024-01-16,CUST157,Male,23.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,West
+ORD1227,2023-12-20,CUST129,Male,39.0,Mixer,Home & Kitchen,3,2400,7200,Cash,South
+ORD1228,2023-10-14,CUST146,Male,33.0,Gym Bag,Sports,5,1000,5000,Credit Card,North
+ORD1229,2024-02-04,CUST239,Other,20.0,Sunscreen,Beauty,1,550,550,Net Banking,West
+ORD1230,2023-09-05,CUST207,Male,47.0,Gym Bag,Sports,4,1000,4000,Net Banking,West
+ORD1231,2024-04-04,CUST137,Male,31.0,Cookware Set,Home & Kitchen,1,3500,3500,Cash,North
+ORD1232,2023-12-27,CUST184,Male,26.0,Shirt,Clothing,2,1100,2200,UPI,East
+ORD1233,2024-04-10,CUST154,Male,39.0,Shampoo,Beauty,4,320,1280,Debit Card,West
+ORD1234,2023-08-27,CUST148,Male,35.0,Dumbbells,Sports,4,1400,5600,Net Banking,East
+ORD1235,2023-01-07,CUST279,Female,32.0,Shampoo,Beauty,3,320,960,Net Banking,East
+ORD1236,2024-04-10,CUST119,Female,27.0,Mouse,Electronics,3,700,2100,UPI,South
+ORD1237,2023-04-05,CUST113,Male,33.0,Laptop,Electronics,4,55000,220000,Net Banking,West
+ORD1238,2024-10-14,CUST216,Male,38.0,Mixer,Home & Kitchen,1,2400,2400,Credit Card,West
+ORD1239,2023-01-12,CUST131,Male,45.0,Headphones,Electronics,5,2500,12500,Net Banking,West
+ORD1240,2023-02-12,CUST229,Female,36.0,Sneakers,Clothing,5,3200,16000,Debit Card,Central
+ORD1241,2024-10-03,CUST225,Other,48.0,Shampoo,Beauty,1,320,320,UPI,East
+ORD1242,2023-06-05,CUST289,Male,24.0,Smartphone,Electronics,1,22000,22000,Cash,North
+ORD1243,2023-12-25,CUST223,Male,53.0,Mixer,Home & Kitchen,5,2400,12000,Cash,South
+ORD1244,2024-04-27,CUST106,Female,39.0,Headphones,Electronics,5,2500,12500,Net Banking,Central
+ORD1245,2024-02-09,CUST178,Female,40.0,Shampoo,Beauty,3,320,960,Credit Card,Central
+ORD1246,2023-08-30,CUST280,Female,62.0,Smartphone,Electronics,2,22000,44000,Cash,North
+ORD1247,2024-12-03,CUST248,Female,43.0,Headphones,Electronics,3,2500,7500,Cash,South
+ORD1248,2023-08-15,CUST279,Female,59.0,Sneakers,Clothing,2,3200,6400,Net Banking,South
+ORD1249,2023-04-30,CUST236,Female,19.0,Yoga Mat,Sports,1,800,800,Cash,Central
+ORD1250,2023-08-20,CUST120,Female,51.0,Jeans,Clothing,2,1600,3200,Debit Card,North
+ORD1251,2024-04-11,CUST168,Female,18.0,Lamp,Home & Kitchen,5,900,4500,Net Banking,Central
+ORD1252,2024-09-12,CUST278,Male,41.0,Keyboard,Electronics,1,1200,1200,UPI,Central
+ORD1253,2024-10-12,CUST279,Female,24.0,Cookware Set,Home & Kitchen,4,3500,14000,Debit Card,West
+ORD1254,2023-12-16,CUST195,Male,27.0,Jeans,Clothing,5,1600,8000,Cash,North
+ORD1255,2024-04-07,CUST277,Male,53.0,T-Shirt,Clothing,1,600,600,Cash,North
+ORD1256,2023-05-29,CUST263,Male,57.0,Cookware Set,Home & Kitchen,2,3500,7000,Credit Card,Central
+ORD1257,2024-06-06,CUST109,Male,57.0,Lamp,Home & Kitchen,2,900,1800,Credit Card,North
+ORD1258,2024-09-17,CUST121,Male,37.0,Jacket,Clothing,4,2800,11200,Net Banking,West
+ORD1259,2023-05-02,CUST131,Male,56.0,Laptop,Electronics,5,55000,275000,UPI,West
+ORD1260,2024-02-01,CUST248,Other,63.0,Dumbbells,Sports,5,1400,7000,Cash,East
+ORD1261,2024-06-17,CUST191,Male,35.0,Jacket,Clothing,1,2800,2800,Credit Card,Central
+ORD1262,2024-07-15,CUST194,Female,40.0,Sunscreen,Beauty,3,550,1650,Cash,Central
+ORD1263,2023-12-19,CUST283,Female,36.0,Shirt,Clothing,5,1100,5500,Net Banking,West
+ORD1264,2023-07-05,CUST243,Female,61.0,Water Bottle,Home & Kitchen,2,400,800,Net Banking,East
+ORD1265,2024-05-05,CUST109,Female,63.0,Football,Sports,2,900,1800,Debit Card,East
+ORD1266,2024-05-14,CUST263,Male,43.0,Perfume,Beauty,1,1800,1800,Credit Card,West
+ORD1267,2024-03-12,CUST220,Female,33.0,Face Wash,Beauty,2,250,500,Debit Card,
+ORD1268,2023-05-12,CUST119,Female,52.0,Running Shoes,Sports,5,2900,14500,Credit Card,Central
+ORD1269,2023-02-07,CUST273,Male,62.0,Water Bottle,Home & Kitchen,2,400,800,Cash,North
+ORD1270,2024-06-09,CUST102,Male,33.0,Lamp,Home & Kitchen,5,900,4500,Credit Card,West
+ORD1271,2023-06-08,CUST287,Female,63.0,Cookware Set,Home & Kitchen,2,3500,7000,Debit Card,Central
+ORD1272,2024-12-04,CUST118,Male,53.0,Shampoo,Beauty,5,320,1600,UPI,North
+ORD1273,2024-04-20,CUST146,Other,62.0,Headphones,Electronics,1,2500,2500,UPI,North
+ORD1274,2024-02-03,CUST297,Other,28.0,Lamp,Home & Kitchen,3,900,2700,UPI,South
+ORD1275,2024-07-26,CUST237,Male,30.0,Mixer,Home & Kitchen,4,2400,9600,Debit Card,North
+ORD1276,2024-07-16,CUST246,Male,63.0,Water Bottle,Home & Kitchen,1,400,400,Credit Card,East
+ORD1277,2023-02-18,CUST248,Male,22.0,Shirt,Clothing,4,1100,4400,Cash,South
+ORD1278,2024-10-02,CUST123,Female,23.0,Mouse,Electronics,3,700,2100,UPI,West
+ORD1279,2024-10-25,CUST135,Male,41.0,Laptop,Electronics,4,55000,220000,Cash,South
+ORD1280,2023-08-08,CUST113,Male,33.0,Sneakers,Clothing,3,3200,9600,Credit Card,North
+ORD1281,2023-08-16,CUST283,Male,35.0,Sunscreen,Beauty,1,550,550,,East
+ORD1282,2024-06-02,CUST169,Female,35.0,Headphones,Electronics,2,2500,5000,Debit Card,West
+ORD1283,2024-10-27,CUST219,Male,54.0,Smartphone,Electronics,2,22000,44000,Credit Card,Central
+ORD1284,2023-11-01,CUST246,Male,38.0,Jacket,Clothing,2,2800,5600,Cash,North
+ORD1285,2024-09-20,CUST295,Male,24.0,Laptop,Electronics,2,55000,110000,UPI,North
+ORD1286,2023-01-28,CUST285,Female,56.0,Gym Bag,Sports,2,1000,2000,UPI,North
+ORD1287,2024-05-31,CUST101,Female,19.0,Cookware Set,Home & Kitchen,1,3500,3500,Credit Card,South
+ORD1288,2024-11-09,CUST185,Male,64.0,Football,Sports,5,900,4500,Cash,East
+ORD1289,2023-02-01,CUST234,Female,43.0,Jacket,Clothing,1,2800,2800,Cash,West
+ORD1290,2024-08-26,CUST113,Male,58.0,Water Bottle,Home & Kitchen,4,400,1600,,West
+ORD1291,2023-09-11,CUST230,Female,50.0,Shampoo,Beauty,1,320,320,Credit Card,West
+ORD1292,2024-01-14,CUST277,Male,22.0,Sunscreen,Beauty,1,550,550,Debit Card,East
+ORD1293,2024-04-20,CUST140,Female,38.0,Mouse,Electronics,4,700,2800,UPI,South
+ORD1294,2024-01-21,CUST106,Female,62.0,Headphones,Electronics,4,2500,10000,Debit Card,East
+ORD1295,2023-05-09,CUST107,Female,65.0,T-Shirt,Clothing,4,600,2400,Debit Card,Central
+ORD1296,2024-06-07,CUST238,Female,33.0,Jacket,Clothing,1,2800,2800,UPI,Central
+ORD1297,2023-06-11,CUST103,Other,48.0,Gym Bag,Sports,5,1000,5000,Debit Card,East
+ORD1298,2023-07-15,CUST124,Female,43.0,Moisturizer,Beauty,1,450,450,Net Banking,East
+ORD1299,2024-01-07,CUST277,Male,61.0,Smartphone,Electronics,1,22000,22000,UPI,East
+ORD1300,2024-04-01,CUST230,Female,47.0,Running Shoes,Sports,4,2900,11600,Credit Card,Central
+ORD1301,2024-11-05,CUST279,Female,64.0,Mouse,Electronics,1,700,700,Credit Card,South
+ORD1302,2024-09-11,CUST238,Female,44.0,Mixer,Home & Kitchen,5,2400,12000,Debit Card,North
+ORD1303,2024-04-27,CUST267,Male,64.0,Mouse,Electronics,2,700,1400,UPI,West
+ORD1304,2024-03-17,CUST252,Male,32.0,Jacket,Clothing,4,2800,11200,Net Banking,East
+ORD1305,2024-10-15,CUST244,Female,52.0,Perfume,Beauty,4,1800,7200,Cash,Central
+ORD1306,2024-10-07,CUST250,Male,51.0,Football,Sports,1,900,900,Cash,Central
+ORD1307,2024-06-25,CUST177,Male,42.0,Bedsheet,Home & Kitchen,3,1300,3900,Credit Card,North
+ORD1308,2024-03-01,CUST118,Female,37.0,Jacket,Clothing,3,2800,8400,Net Banking,North
+ORD1309,2024-02-02,CUST219,Female,53.0,T-Shirt,Clothing,4,600,2400,UPI,North
+ORD1310,2024-10-15,CUST152,Male,31.0,Headphones,Electronics,1,2500,2500,UPI,West
+ORD1311,2024-09-28,CUST209,Male,33.0,Headphones,Electronics,2,2500,5000,Net Banking,North
+ORD1312,2024-07-29,CUST149,Female,38.0,Sneakers,Clothing,3,3200,9600,Net Banking,West
+ORD1313,2023-07-20,CUST288,Male,52.0,Sneakers,Clothing,1,3200,3200,UPI,South
+ORD1314,2023-12-09,CUST274,Male,29.0,Yoga Mat,Sports,5,800,4000,UPI,East
+ORD1315,2024-07-03,CUST119,Female,21.0,Gym Bag,Sports,5,1000,5000,Cash,West
+ORD1316,2024-08-01,CUST185,Male,41.0,Sneakers,Clothing,5,3200,16000,Credit Card,East
+ORD1317,2024-12-22,CUST244,Male,23.0,Face Wash,Beauty,1,250,250,Credit Card,East
+ORD1318,2024-03-24,CUST284,Male,52.0,Headphones,Electronics,2,2500,5000,Debit Card,Central
+ORD1319,2024-12-01,CUST148,Male,25.0,Mixer,Home & Kitchen,5,2400,12000,Debit Card,West
+ORD1320,2024-12-04,CUST161,Male,58.0,Mouse,Electronics,5,700,3500,UPI,Central
+ORD1321,2024-07-24,CUST266,Female,56.0,T-Shirt,Clothing,5,600,3000,Net Banking,East
+ORD1322,2023-05-07,CUST145,Male,57.0,Keyboard,Electronics,5,1200,6000,Cash,East
+ORD1323,2023-04-19,CUST111,Female,50.0,Shirt,Clothing,5,1100,5500,Net Banking,South
+ORD1324,2024-06-03,CUST252,Female,40.0,Dumbbells,Sports,5,1400,7000,Net Banking,North
+ORD1325,2023-11-20,CUST260,Male,35.0,Cookware Set,Home & Kitchen,2,3500,7000,Net Banking,East
+ORD1326,2023-11-28,CUST221,Male,58.0,Lamp,Home & Kitchen,1,900,900,Credit Card,Central
+ORD1327,2023-09-23,CUST241,Female,26.0,Shampoo,Beauty,3,320,960,UPI,West
+ORD1328,2024-05-28,CUST192,Male,33.0,Keyboard,Electronics,5,1200,6000,Credit Card,North
+ORD1329,2023-08-23,CUST164,Male,32.0,Sunscreen,Beauty,3,550,1650,Credit Card,Central
+ORD1330,2023-10-06,CUST251,Female,45.0,Laptop,Electronics,1,55000,55000,Net Banking,East
+ORD1331,2024-01-10,CUST172,Male,47.0,Jacket,Clothing,5,2800,14000,Cash,West
+ORD1332,2023-06-05,CUST271,Female,40.0,Moisturizer,Beauty,3,450,1350,Debit Card,South
+ORD1333,2024-11-09,CUST133,Male,54.0,Sneakers,Clothing,4,3200,12800,Cash,Central
+ORD1334,2024-10-30,CUST287,Male,52.0,Yoga Mat,Sports,4,800,3200,Debit Card,East
+ORD1335,2024-07-29,CUST168,Female,65.0,T-Shirt,Clothing,1,600,600,Cash,West
+ORD1336,2024-03-09,CUST168,Male,41.0,Lamp,Home & Kitchen,1,900,900,Debit Card,East
+ORD1337,2023-06-04,CUST273,Male,44.0,Running Shoes,Sports,2,2900,5800,Credit Card,East
+ORD1338,2023-09-02,CUST129,Male,54.0,Keyboard,Electronics,5,1200,6000,Credit Card,West
+ORD1339,2023-07-20,CUST212,Male,64.0,Sneakers,Clothing,2,3200,6400,Cash,North
+ORD1340,2023-06-14,CUST148,Female,62.0,Sneakers,Clothing,5,3200,16000,Net Banking,East
+ORD1341,2023-12-20,CUST259,Female,38.0,Moisturizer,Beauty,2,450,900,Cash,Central
+ORD1342,2024-01-20,CUST191,Female,52.0,Running Shoes,Sports,3,2900,8700,Net Banking,South
+ORD1343,2023-09-30,CUST198,Female,57.0,Bedsheet,Home & Kitchen,5,1300,6500,UPI,South
+ORD1344,2024-05-31,CUST244,Female,36.0,Shirt,Clothing,4,1100,4400,Debit Card,Central
+ORD1345,2023-09-03,CUST248,Female,56.0,Water Bottle,Home & Kitchen,4,400,1600,Cash,Central
+ORD1346,2024-07-11,CUST111,Other,36.0,Sunscreen,Beauty,1,550,550,Credit Card,West
+ORD1347,2023-04-12,CUST174,Male,41.0,Cookware Set,Home & Kitchen,4,3500,14000,Debit Card,East
+ORD1348,2024-04-09,CUST278,Female,44.0,Football,Sports,2,900,1800,Credit Card,West
+ORD1349,2023-06-12,CUST147,Other,25.0,Sunscreen,Beauty,5,550,2750,Cash,Central
+ORD1350,2023-05-27,CUST162,Female,22.0,T-Shirt,Clothing,1,600,600,Net Banking,Central
+ORD1351,2024-12-26,CUST270,Female,27.0,Dumbbells,Sports,5,1400,7000,Credit Card,Central
+ORD1352,2024-10-25,CUST134,Male,47.0,Jeans,Clothing,1,1600,1600,Debit Card,East
+ORD1353,2024-05-02,CUST170,Male,20.0,Mouse,Electronics,1,700,700,UPI,West
+ORD1354,2023-05-21,CUST235,Female,26.0,Face Wash,Beauty,5,250,1250,UPI,West
+ORD1355,2024-01-19,CUST103,Male,55.0,Face Wash,Beauty,2,250,500,Debit Card,East
+ORD1356,2024-11-15,CUST133,Male,36.0,Lamp,Home & Kitchen,5,900,4500,Debit Card,South
+ORD1357,2024-01-15,CUST243,Male,19.0,Mouse,Electronics,2,700,1400,Credit Card,South
+ORD1358,2023-10-22,CUST294,Female,31.0,Sneakers,Clothing,2,3200,6400,Debit Card,Central
+ORD1359,2023-08-21,CUST257,Other,38.0,Mixer,Home & Kitchen,1,2400,2400,Debit Card,Central
+ORD1360,2023-07-02,CUST122,Female,,T-Shirt,Clothing,1,600,600,Credit Card,West
+ORD1361,2023-06-09,CUST213,Male,45.0,Lamp,Home & Kitchen,4,900,3600,Cash,Central
+ORD1362,2023-02-28,CUST107,Male,48.0,Sunscreen,Beauty,5,550,2750,Credit Card,South
+ORD1363,2024-12-16,CUST148,Male,48.0,Moisturizer,Beauty,1,450,450,UPI,South
+ORD1364,2023-12-09,CUST187,Female,58.0,Shampoo,Beauty,1,320,320,Net Banking,West
+ORD1365,2024-10-12,CUST220,Male,36.0,Perfume,Beauty,4,1800,7200,UPI,East
+ORD1366,2023-05-21,CUST182,Female,65.0,Running Shoes,Sports,4,2900,11600,Cash,East
+ORD1367,2024-12-29,CUST219,Female,64.0,Mouse,Electronics,2,700,1400,Net Banking,Central
+ORD1368,2024-06-19,CUST207,Male,21.0,Gym Bag,Sports,1,1000,1000,UPI,North
+ORD1369,2024-10-13,CUST136,Male,54.0,Keyboard,Electronics,3,1200,3600,Cash,North
+ORD1370,2023-08-24,CUST204,Male,58.0,Cookware Set,Home & Kitchen,3,3500,10500,Net Banking,South
+ORD1371,2024-06-11,CUST236,Female,28.0,Lamp,Home & Kitchen,2,900,1800,UPI,West
+ORD1372,2023-06-11,CUST236,Male,24.0,Perfume,Beauty,5,1800,9000,Cash,South
+ORD1373,2023-05-29,CUST127,Female,18.0,Sunscreen,Beauty,4,550,2200,Cash,Central
+ORD1374,2023-11-09,CUST148,Male,27.0,Jacket,Clothing,5,2800,14000,Net Banking,West
+ORD1375,2024-11-07,CUST201,Male,39.0,Mouse,Electronics,5,700,3500,UPI,West
+ORD1376,2024-01-22,CUST210,Male,29.0,Football,Sports,1,900,900,Cash,Central
+ORD1377,2023-07-07,CUST189,Female,37.0,Sneakers,Clothing,2,3200,6400,Cash,North
+ORD1378,2024-05-16,CUST280,Male,64.0,Cookware Set,Home & Kitchen,4,3500,14000,UPI,South
+ORD1379,2023-02-02,CUST154,Female,29.0,Smartphone,Electronics,1,22000,22000,Debit Card,Central
+ORD1380,2024-04-01,CUST259,Female,50.0,Lamp,Home & Kitchen,3,900,2700,UPI,Central
+ORD1381,2024-05-03,CUST256,Male,45.0,Sneakers,Clothing,3,3200,9600,Net Banking,West
+ORD1382,2024-08-24,CUST203,Female,22.0,Cookware Set,Home & Kitchen,4,3500,14000,Cash,South
+ORD1383,2024-06-12,CUST158,Female,24.0,Lamp,Home & Kitchen,1,900,900,Credit Card,North
+ORD1384,2023-10-28,CUST182,Male,25.0,Cookware Set,Home & Kitchen,3,3500,10500,Cash,West
+ORD1385,2024-11-17,CUST151,Male,64.0,Mixer,Home & Kitchen,1,2400,2400,UPI,South
+ORD1386,2024-08-18,CUST151,Male,50.0,Shampoo,Beauty,5,320,1600,Credit Card,East
+ORD1387,2023-10-04,CUST145,Male,55.0,Perfume,Beauty,2,1800,3600,Credit Card,South
+ORD1388,2024-06-03,CUST271,Female,61.0,Keyboard,Electronics,5,1200,6000,UPI,North
+ORD1389,2024-06-06,CUST194,Male,23.0,Gym Bag,Sports,2,1000,2000,UPI,West
+ORD1390,2024-03-21,CUST175,Male,42.0,Football,Sports,2,900,1800,Credit Card,East
+ORD1391,2024-01-25,CUST103,Female,46.0,Mouse,Electronics,2,700,1400,Debit Card,Central
+ORD1392,2023-09-02,CUST179,Other,25.0,Football,Sports,3,900,2700,Net Banking,South
+ORD1393,2024-03-02,CUST138,Female,37.0,Lamp,Home & Kitchen,1,900,900,Credit Card,Central
+ORD1394,2023-03-15,CUST135,Male,45.0,Mixer,Home & Kitchen,5,2400,12000,Credit Card,East
+ORD1395,2023-11-18,CUST154,Female,44.0,Mouse,Electronics,4,700,2800,Net Banking,East
+ORD1396,2024-10-14,CUST272,Male,26.0,Keyboard,Electronics,4,1200,4800,Debit Card,South
+ORD1397,2023-11-23,CUST166,Male,47.0,Yoga Mat,Sports,5,800,4000,Debit Card,East
+ORD1398,2024-12-18,CUST116,Female,,Football,Sports,2,900,1800,Cash,Central
+ORD1399,2023-04-24,CUST100,Male,62.0,Sneakers,Clothing,1,3200,3200,Cash,West
+ORD1400,2023-02-10,CUST204,Male,18.0,Keyboard,Electronics,3,1200,3600,UPI,South
+ORD1401,2024-08-02,CUST296,Female,38.0,Face Wash,Beauty,5,250,1250,Debit Card,West
+ORD1402,2024-11-30,CUST298,Female,24.0,Moisturizer,Beauty,5,450,2250,Credit Card,Central
+ORD1403,2023-03-25,CUST242,Female,62.0,Sneakers,Clothing,2,3200,6400,Net Banking,North
+ORD1404,2024-04-19,CUST167,Male,52.0,Sneakers,Clothing,1,3200,3200,Net Banking,North
+ORD1405,2023-06-13,CUST123,Male,21.0,Jacket,Clothing,5,2800,14000,Debit Card,South
+ORD1406,2023-10-06,CUST208,Male,58.0,Gym Bag,Sports,4,1000,4000,UPI,Central
+ORD1407,2024-10-11,CUST267,Male,55.0,Shirt,Clothing,1,1100,1100,Net Banking,Central
+ORD1408,2023-02-07,CUST263,Female,22.0,Jacket,Clothing,4,2800,11200,Net Banking,South
+ORD1409,2023-04-22,CUST254,Male,65.0,Shirt,Clothing,1,1100,1100,Debit Card,West
+ORD1410,2023-09-29,CUST158,Male,59.0,Gym Bag,Sports,5,1000,5000,Credit Card,East
+ORD1411,2024-10-12,CUST109,Female,34.0,T-Shirt,Clothing,1,600,600,Cash,West
+ORD1412,2023-04-12,CUST164,Female,53.0,Bedsheet,Home & Kitchen,5,1300,6500,UPI,North
+ORD1413,2023-07-17,CUST100,Male,56.0,Jeans,Clothing,3,1600,4800,Net Banking,North
+ORD1414,2024-04-21,CUST172,Male,23.0,Jacket,Clothing,1,2800,2800,Cash,West
+ORD1415,2023-03-17,CUST211,Female,18.0,Laptop,Electronics,1,55000,55000,UPI,East
+ORD1416,2024-01-04,CUST182,Female,52.0,Lamp,Home & Kitchen,4,900,3600,Credit Card,North
+ORD1417,2024-12-28,CUST158,Female,23.0,Gym Bag,Sports,4,1000,4000,UPI,North
+ORD1418,2023-07-12,CUST296,Female,23.0,Football,Sports,5,900,4500,Net Banking,East
+ORD1419,2024-04-02,CUST188,Male,21.0,Football,Sports,3,900,2700,Cash,South
+ORD1420,2024-06-02,CUST283,Female,33.0,Football,Sports,1,900,900,Debit Card,East
+ORD1421,2023-04-23,CUST111,Male,28.0,Headphones,Electronics,1,2500,2500,Net Banking,East
+ORD1422,2024-07-22,CUST255,Male,50.0,T-Shirt,Clothing,5,600,3000,Credit Card,North
+ORD1423,2024-03-25,CUST146,Male,50.0,Perfume,Beauty,3,1800,5400,Net Banking,West
+ORD1424,2024-02-08,CUST128,Male,27.0,Moisturizer,Beauty,5,450,2250,UPI,North
+ORD1425,2023-01-17,CUST165,Other,22.0,Smartphone,Electronics,2,22000,44000,Cash,North
+ORD1426,2024-02-29,CUST276,Male,29.0,Shampoo,Beauty,4,320,1280,Debit Card,East
+ORD1427,2023-07-27,CUST101,Male,27.0,Laptop,Electronics,3,55000,165000,Credit Card,East
+ORD1428,2024-05-09,CUST119,Male,37.0,Bedsheet,Home & Kitchen,5,1300,6500,Cash,East
+ORD1429,2023-05-14,CUST126,Female,50.0,Cookware Set,Home & Kitchen,5,3500,17500,UPI,East
+ORD1430,2024-02-17,CUST295,Female,43.0,Sneakers,Clothing,2,3200,6400,UPI,South
+ORD1431,2024-07-13,CUST248,Male,39.0,Bedsheet,Home & Kitchen,3,1300,3900,Cash,South
+ORD1432,2024-03-24,CUST212,Male,24.0,Shirt,Clothing,4,1100,4400,UPI,North
+ORD1433,2024-02-24,CUST172,Female,59.0,T-Shirt,Clothing,2,600,1200,UPI,South
+ORD1434,2024-05-21,CUST184,Female,45.0,Mouse,Electronics,3,700,2100,Cash,Central
+ORD1435,2023-09-05,CUST191,Female,58.0,Bedsheet,Home & Kitchen,2,1300,2600,Credit Card,South
+ORD1436,2023-05-31,CUST210,Female,64.0,Face Wash,Beauty,5,250,1250,UPI,North
+ORD1437,2023-10-23,CUST160,Male,50.0,Keyboard,Electronics,2,1200,2400,Debit Card,South
+ORD1438,2024-07-03,CUST226,Female,30.0,Jeans,Clothing,2,1600,3200,Debit Card,South
+ORD1439,2024-05-08,CUST172,Male,60.0,Bedsheet,Home & Kitchen,3,1300,3900,UPI,North
+ORD1440,2024-10-10,CUST181,Female,38.0,Yoga Mat,Sports,5,800,4000,Credit Card,Central
+ORD1441,2024-11-10,CUST263,Female,60.0,Football,Sports,4,900,3600,Net Banking,West
+ORD1442,2023-07-04,CUST103,Female,24.0,Jacket,Clothing,2,2800,5600,Net Banking,East
+ORD1443,2023-07-26,CUST228,Female,31.0,Lamp,Home & Kitchen,4,900,3600,Credit Card,North
+ORD1444,2024-10-06,CUST191,Female,24.0,Shirt,Clothing,5,1100,5500,Debit Card,Central
+ORD1445,2023-03-10,CUST228,Male,44.0,Moisturizer,Beauty,3,450,1350,Credit Card,North
+ORD1446,2023-06-02,CUST154,Male,49.0,Jeans,Clothing,4,1600,6400,Net Banking,West
+ORD1447,2023-11-10,CUST138,Male,38.0,Mixer,Home & Kitchen,2,2400,4800,Net Banking,North
+ORD1448,2023-02-08,CUST249,Female,22.0,Smartphone,Electronics,3,22000,66000,Credit Card,North
+ORD1449,2024-12-26,CUST300,Male,54.0,Jacket,Clothing,1,2800,2800,Net Banking,West
+ORD1450,2023-09-04,CUST203,Female,54.0,Shirt,Clothing,1,1100,1100,Cash,South
+ORD1451,2024-09-29,CUST259,Female,31.0,T-Shirt,Clothing,1,600,600,Credit Card,South
+ORD1452,2024-11-04,CUST300,Male,28.0,Bedsheet,Home & Kitchen,4,1300,5200,Debit Card,West
+ORD1453,2023-05-17,CUST274,Female,50.0,Bedsheet,Home & Kitchen,5,1300,6500,Debit Card,East
+ORD1454,2023-12-20,CUST240,Female,51.0,Shampoo,Beauty,1,320,320,Net Banking,Central
+ORD1455,2023-10-22,CUST227,Other,34.0,Perfume,Beauty,5,1800,9000,Net Banking,Central
+ORD1456,2023-04-13,CUST152,Female,34.0,Moisturizer,Beauty,2,450,900,Debit Card,North
+ORD1457,2024-09-20,CUST259,Female,33.0,Moisturizer,Beauty,5,450,2250,UPI,West
+ORD1458,2024-05-19,CUST185,Female,61.0,Face Wash,Beauty,5,250,1250,Debit Card,North
+ORD1459,2024-10-20,CUST293,Male,32.0,Water Bottle,Home & Kitchen,3,400,1200,Debit Card,East
+ORD1460,2024-03-10,CUST227,Male,49.0,Laptop,Electronics,2,55000,110000,Cash,North
+ORD1461,2023-02-18,CUST272,Male,30.0,Sunscreen,Beauty,4,550,2200,Net Banking,West
+ORD1462,2023-11-19,CUST182,Male,31.0,Football,Sports,2,900,1800,Debit Card,West
+ORD1463,2023-05-02,CUST206,Female,47.0,Sneakers,Clothing,3,3200,9600,Debit Card,South
+ORD1464,2023-12-14,CUST258,Female,32.0,Mixer,Home & Kitchen,1,2400,2400,UPI,West
+ORD1465,2024-01-03,CUST272,Male,49.0,Shampoo,Beauty,2,320,640,Credit Card,West
+ORD1466,2024-12-04,CUST143,Female,24.0,Smartphone,Electronics,3,22000,66000,Cash,North
+ORD1467,2024-02-05,CUST243,Female,20.0,Shirt,Clothing,2,1100,2200,Net Banking,South
+ORD1468,2024-04-14,CUST161,Male,59.0,Gym Bag,Sports,5,1000,5000,Net Banking,Central
+ORD1469,2023-02-09,CUST286,Female,47.0,Moisturizer,Beauty,1,450,450,Cash,South
+ORD1470,2024-05-28,CUST277,Male,43.0,Mixer,Home & Kitchen,2,2400,4800,Credit Card,North
+ORD1471,2024-11-08,CUST294,Female,18.0,T-Shirt,Clothing,3,600,1800,Net Banking,West
+ORD1472,2024-08-08,CUST280,Female,21.0,Shirt,Clothing,3,1100,3300,Cash,South
+ORD1473,2024-06-23,CUST235,Male,39.0,Sunscreen,Beauty,1,550,550,Net Banking,Central
+ORD1474,2023-04-30,CUST145,Female,23.0,Gym Bag,Sports,4,1000,4000,UPI,East
+ORD1475,2023-08-18,CUST245,Female,28.0,Water Bottle,Home & Kitchen,5,400,2000,UPI,Central
+ORD1476,2024-10-13,CUST142,Female,44.0,Keyboard,Electronics,4,1200,4800,Net Banking,South
+ORD1477,2023-12-17,CUST242,Male,30.0,Keyboard,Electronics,3,1200,3600,UPI,East
+ORD1478,2024-05-13,CUST281,Female,65.0,Keyboard,Electronics,5,1200,6000,Net Banking,East
+ORD1479,2023-12-22,CUST259,Male,60.0,Mouse,Electronics,1,700,700,Credit Card,East
+ORD1480,2023-05-05,CUST237,Male,21.0,Gym Bag,Sports,5,1000,5000,Net Banking,Central
+ORD1481,2023-03-15,CUST160,Male,37.0,Moisturizer,Beauty,2,450,900,Debit Card,East
+ORD1482,2023-07-10,CUST158,Male,38.0,Running Shoes,Sports,5,2900,14500,Cash,South
+ORD1483,2024-04-12,CUST265,Female,28.0,Mixer,Home & Kitchen,2,2400,4800,Debit Card,Central
+ORD1484,2023-10-04,CUST271,Female,58.0,Shampoo,Beauty,3,320,960,Debit Card,North
+ORD1485,2023-03-05,CUST170,Female,32.0,Cookware Set,Home & Kitchen,3,3500,10500,Cash,South
+ORD1486,2024-02-08,CUST277,Female,60.0,Water Bottle,Home & Kitchen,2,400,800,Cash,West
+ORD1487,2023-07-03,CUST189,Male,30.0,Football,Sports,4,900,3600,Credit Card,Central
+ORD1488,2024-03-13,CUST125,Female,61.0,Shampoo,Beauty,4,320,1280,Debit Card,West
+ORD1489,2024-10-01,CUST183,Female,33.0,Mouse,Electronics,1,700,700,Debit Card,Central
+ORD1490,2023-08-03,CUST187,Female,26.0,Football,Sports,5,900,4500,Debit Card,East
+ORD1491,2023-08-11,CUST218,Female,32.0,Mouse,Electronics,1,700,700,Net Banking,West
+ORD1492,2023-03-05,CUST141,Female,36.0,Shirt,Clothing,4,1100,4400,Debit Card,South
+ORD1493,2023-10-03,CUST149,Male,27.0,Headphones,Electronics,2,2500,5000,Cash,Central
+ORD1494,2024-08-06,CUST139,Male,40.0,Water Bottle,Home & Kitchen,1,400,400,Debit Card,Central
+ORD1495,2023-02-08,CUST127,Male,30.0,Sneakers,Clothing,2,3200,6400,Cash,Central
+ORD1496,2023-06-15,CUST226,Other,40.0,Headphones,Electronics,2,2500,5000,Credit Card,East
+ORD1497,2024-02-28,CUST227,Male,52.0,Water Bottle,Home & Kitchen,2,400,800,Cash,West
+ORD1498,2023-09-04,CUST156,Female,51.0,Mixer,Home & Kitchen,1,2400,2400,UPI,Central
+ORD1499,2024-02-03,CUST205,Male,56.0,Jeans,Clothing,3,1600,4800,Net Banking,North
+ORD1500,2023-03-23,CUST176,Female,29.0,Sunscreen,Beauty,2,550,1100,Cash,East
+ORD1501,2023-02-17,CUST117,Male,56.0,Mixer,Home & Kitchen,3,2400,7200,Cash,East
+ORD1502,2023-08-17,CUST233,Female,43.0,Perfume,Beauty,5,1800,9000,Cash,West
+ORD1503,2024-11-02,CUST286,Male,55.0,Mixer,Home & Kitchen,5,2400,12000,Cash,Central
+ORD1504,2023-08-25,CUST249,Female,55.0,Sneakers,Clothing,3,3200,9600,UPI,East
+ORD1505,2023-06-26,CUST158,Female,22.0,Football,Sports,4,900,3600,Cash,North
+ORD1506,2024-08-18,CUST226,Male,30.0,Smartphone,Electronics,2,22000,44000,Net Banking,South
+ORD1507,2024-12-17,CUST180,Male,50.0,Sunscreen,Beauty,4,550,2200,UPI,Central
+ORD1508,2023-04-19,CUST122,Male,25.0,Mouse,Electronics,2,700,1400,Debit Card,South
+ORD1509,2024-05-11,CUST255,Female,33.0,Perfume,Beauty,5,1800,9000,Credit Card,South
+ORD1510,2023-08-26,CUST193,Male,60.0,Water Bottle,Home & Kitchen,2,400,800,Net Banking,Central
+ORD1511,2024-09-19,CUST242,Female,27.0,Laptop,Electronics,3,55000,165000,Cash,Central
+ORD1512,2023-11-04,CUST236,Female,18.0,Headphones,Electronics,1,2500,2500,Cash,East
+ORD1513,2024-04-25,CUST284,Male,44.0,Face Wash,Beauty,4,250,1000,Cash,North
+ORD1514,2023-05-19,CUST202,Male,34.0,Cookware Set,Home & Kitchen,3,3500,10500,UPI,South
+ORD1515,2024-09-05,CUST264,Female,25.0,Perfume,Beauty,2,1800,3600,UPI,North
+ORD1516,2023-05-29,CUST214,Male,57.0,Jacket,Clothing,1,2800,2800,Debit Card,West
+ORD1517,2024-07-03,CUST218,Female,21.0,Bedsheet,Home & Kitchen,4,1300,5200,Credit Card,North
+ORD1518,2023-11-04,CUST157,Female,58.0,Jeans,Clothing,5,1600,8000,Cash,West
+ORD1519,2023-12-21,CUST203,Male,45.0,Dumbbells,Sports,4,1400,5600,UPI,South
+ORD1520,2024-04-16,CUST213,Female,61.0,T-Shirt,Clothing,4,600,2400,,North
+ORD1521,2024-06-20,CUST133,Male,41.0,Sneakers,Clothing,5,3200,16000,Credit Card,North
+ORD1522,2023-06-01,CUST104,Male,44.0,Shampoo,Beauty,3,320,960,UPI,East
+ORD1523,2023-10-09,CUST274,Male,48.0,Smartphone,Electronics,4,22000,88000,Credit Card,West
+ORD1524,2023-09-03,CUST188,Female,20.0,Sunscreen,Beauty,1,550,550,Credit Card,Central
+ORD1525,2024-12-26,CUST289,Female,55.0,T-Shirt,Clothing,4,600,2400,Net Banking,South
+ORD1526,2023-03-11,CUST212,Male,61.0,Sneakers,Clothing,1,3200,3200,Cash,East
+ORD1527,2024-12-26,CUST203,Female,20.0,Running Shoes,Sports,3,2900,8700,Credit Card,South
+ORD1528,2024-07-26,CUST291,Male,62.0,T-Shirt,Clothing,3,600,1800,Net Banking,Central
+ORD1529,2023-07-16,CUST172,Female,19.0,Smartphone,Electronics,5,22000,110000,UPI,West
+ORD1530,2023-04-18,CUST175,Female,30.0,Bedsheet,Home & Kitchen,4,1300,5200,Debit Card,Central
+ORD1531,2024-08-28,CUST300,Male,38.0,Sneakers,Clothing,2,3200,6400,Credit Card,West
+ORD1532,2023-04-21,CUST228,Male,59.0,Laptop,Electronics,5,55000,275000,Credit Card,Central
+ORD1533,2023-07-27,CUST107,Male,34.0,Moisturizer,Beauty,5,450,2250,UPI,South
+ORD1534,2023-06-12,CUST209,Male,25.0,Laptop,Electronics,5,55000,275000,Net Banking,Central
+ORD1535,2024-11-05,CUST159,Male,39.0,T-Shirt,Clothing,5,600,3000,Credit Card,North
+ORD1536,2023-01-05,CUST119,Male,35.0,Jeans,Clothing,2,1600,3200,Cash,North
+ORD1537,2024-02-03,CUST118,Female,64.0,Gym Bag,Sports,4,1000,4000,Cash,East
+ORD1538,2024-09-03,CUST262,Male,65.0,Keyboard,Electronics,4,1200,4800,Cash,Central
+ORD1539,2023-03-06,CUST198,Male,30.0,Jacket,Clothing,2,2800,5600,Credit Card,Central
+ORD1540,2024-12-20,CUST243,Male,62.0,Headphones,Electronics,3,2500,7500,Credit Card,West
+ORD1541,2023-05-16,CUST123,Other,48.0,Cookware Set,Home & Kitchen,3,3500,10500,UPI,Central
+ORD1542,2023-04-13,CUST224,Female,52.0,Sunscreen,Beauty,3,550,1650,Credit Card,South
+ORD1543,2024-02-27,CUST159,Male,62.0,Smartphone,Electronics,5,22000,110000,Net Banking,South
+ORD1544,2023-04-03,CUST250,Female,59.0,Sneakers,Clothing,4,3200,12800,Credit Card,South
+ORD1545,2023-07-31,CUST105,Male,20.0,Water Bottle,Home & Kitchen,2,400,800,Credit Card,East
+ORD1546,2024-02-20,CUST297,Male,18.0,Sunscreen,Beauty,4,550,2200,Cash,East
+ORD1547,2024-01-28,CUST159,Male,31.0,Jeans,Clothing,3,1600,4800,UPI,South
+ORD1548,2024-12-14,CUST182,Female,22.0,Laptop,Electronics,1,55000,55000,Cash,
+ORD1549,2024-08-08,CUST157,Male,58.0,Smartphone,Electronics,1,22000,22000,UPI,East
+ORD1550,2023-04-09,CUST110,Female,39.0,Cookware Set,Home & Kitchen,2,3500,7000,Net Banking,North
+ORD1551,2023-05-01,CUST141,Female,28.0,Jeans,Clothing,4,1600,6400,UPI,East
+ORD1552,2024-10-17,CUST105,Female,60.0,Shirt,Clothing,3,1100,3300,Credit Card,West
+ORD1553,2024-04-18,CUST158,Female,32.0,Sneakers,Clothing,2,3200,6400,Cash,West
+ORD1554,2023-03-04,CUST219,Male,25.0,Jacket,Clothing,1,2800,2800,Net Banking,South
+ORD1555,2023-06-24,CUST175,Male,40.0,Headphones,Electronics,5,2500,12500,Credit Card,Central
+ORD1556,2023-07-14,CUST242,Male,63.0,Gym Bag,Sports,5,1000,5000,Cash,East
+ORD1557,2023-01-27,CUST154,Male,37.0,Smartphone,Electronics,5,22000,110000,UPI,West
+ORD1558,2023-01-30,CUST144,Male,51.0,Jeans,Clothing,5,1600,8000,Net Banking,East
+ORD1559,2024-06-17,CUST279,Female,53.0,Water Bottle,Home & Kitchen,4,400,1600,UPI,East
+ORD1560,2023-05-28,CUST108,Female,35.0,Sneakers,Clothing,1,3200,3200,Net Banking,West
+ORD1561,2023-10-05,CUST285,Male,61.0,Bedsheet,Home & Kitchen,5,1300,6500,Credit Card,Central
+ORD1562,2023-05-27,CUST258,Female,38.0,Dumbbells,Sports,4,1400,5600,,East
+ORD1563,2023-05-18,CUST229,Female,41.0,Dumbbells,Sports,3,1400,4200,UPI,Central
+ORD1564,2023-12-07,CUST103,Female,,T-Shirt,Clothing,3,600,1800,,West
+ORD1565,2023-12-14,CUST164,Female,59.0,Laptop,Electronics,3,55000,165000,Credit Card,South
+ORD1566,2024-02-14,CUST139,Male,28.0,Running Shoes,Sports,3,2900,8700,Net Banking,East
+ORD1567,2023-07-01,CUST293,Female,19.0,Jeans,Clothing,3,1600,4800,Cash,West
+ORD1568,2024-03-19,CUST141,Male,30.0,T-Shirt,Clothing,5,600,3000,UPI,South
+ORD1569,2024-04-12,CUST206,Male,33.0,Shirt,Clothing,1,1100,1100,Credit Card,South
+ORD1570,2024-08-10,CUST189,Male,49.0,Lamp,Home & Kitchen,1,900,900,UPI,South
+ORD1571,2023-11-17,CUST278,Female,41.0,Sunscreen,Beauty,2,550,1100,Debit Card,South
+ORD1572,2024-06-10,CUST111,Female,37.0,Cookware Set,Home & Kitchen,5,3500,17500,Net Banking,Central
+ORD1573,2024-12-28,CUST241,Female,29.0,Smartphone,Electronics,2,22000,44000,Cash,Central
+ORD1574,2024-03-15,CUST195,Female,53.0,Shirt,Clothing,4,1100,4400,Cash,South
+ORD1575,2024-02-04,CUST286,Female,38.0,Water Bottle,Home & Kitchen,3,400,1200,Debit Card,West
+ORD1576,2024-12-11,CUST145,Male,61.0,Shirt,Clothing,5,1100,5500,UPI,North
+ORD1577,2023-04-19,CUST126,Male,57.0,Sneakers,Clothing,2,3200,6400,Debit Card,East
+ORD1578,2024-04-20,CUST182,Male,40.0,Keyboard,Electronics,1,1200,1200,Net Banking,East
+ORD1579,2023-11-22,CUST252,Male,19.0,Perfume,Beauty,1,1800,1800,Net Banking,Central
+ORD1580,2024-12-24,CUST271,Male,28.0,T-Shirt,Clothing,1,600,600,Debit Card,Central
+ORD1581,2024-07-11,CUST294,Female,64.0,Keyboard,Electronics,4,1200,4800,UPI,North
+ORD1582,2023-04-22,CUST278,Male,52.0,Lamp,Home & Kitchen,5,900,4500,Net Banking,East
+ORD1583,2023-10-03,CUST172,Female,36.0,Headphones,Electronics,5,2500,12500,Debit Card,Central
+ORD1584,2024-03-16,CUST185,Male,64.0,Perfume,Beauty,4,1800,7200,Net Banking,Central
+ORD1585,2023-07-19,CUST141,Female,43.0,Moisturizer,Beauty,4,450,1800,Debit Card,Central
+ORD1586,2024-07-04,CUST278,Female,48.0,Lamp,Home & Kitchen,3,900,2700,Debit Card,South
+ORD1587,2024-03-02,CUST118,Female,63.0,Jacket,Clothing,2,2800,5600,Cash,North
+ORD1588,2023-08-20,CUST171,Female,64.0,Mixer,Home & Kitchen,3,2400,7200,Debit Card,Central
+ORD1589,2024-10-13,CUST270,Female,54.0,Running Shoes,Sports,2,2900,5800,Net Banking,North
+ORD1590,2023-04-26,CUST217,Female,49.0,Gym Bag,Sports,1,1000,1000,UPI,South
+ORD1591,2024-05-12,CUST127,Female,43.0,T-Shirt,Clothing,5,600,3000,UPI,Central
+ORD1592,2023-12-14,CUST116,Male,63.0,Sneakers,Clothing,3,3200,9600,Cash,Central
+ORD1593,2023-12-24,CUST205,Female,55.0,Yoga Mat,Sports,3,800,2400,UPI,South
+ORD1594,2023-06-18,CUST173,Male,24.0,Face Wash,Beauty,2,250,500,Net Banking,South
+ORD1595,2024-05-27,CUST280,Female,21.0,Sneakers,Clothing,1,3200,3200,UPI,West
+ORD1596,2024-05-27,CUST170,Female,26.0,Mouse,Electronics,4,700,2800,Net Banking,East
+ORD1597,2024-09-26,CUST142,Female,31.0,Keyboard,Electronics,4,1200,4800,UPI,South
+ORD1598,2024-07-12,CUST286,Male,54.0,Smartphone,Electronics,3,22000,66000,UPI,South
+ORD1599,2024-06-25,CUST257,Male,19.0,T-Shirt,Clothing,4,600,2400,Cash,West
+ORD1600,2024-11-23,CUST298,Female,43.0,Shampoo,Beauty,2,320,640,Credit Card,Central
+ORD1601,2023-04-11,CUST245,Female,54.0,Sneakers,Clothing,3,3200,9600,UPI,South
+ORD1602,2024-09-21,CUST193,Male,26.0,Water Bottle,Home & Kitchen,4,400,1600,Net Banking,West
+ORD1603,2024-12-02,CUST216,Male,56.0,Face Wash,Beauty,3,250,750,Net Banking,West
+ORD1604,2024-12-22,CUST265,Male,50.0,Keyboard,Electronics,3,1200,3600,Cash,East
+ORD1605,2024-12-22,CUST295,Male,46.0,Keyboard,Electronics,4,1200,4800,Credit Card,West
+ORD1606,2024-05-17,CUST284,Male,33.0,Dumbbells,Sports,1,1400,1400,Cash,West
+ORD1607,2024-03-04,CUST249,Male,40.0,Laptop,Electronics,1,55000,55000,Net Banking,South
+ORD1608,2023-09-08,CUST138,Male,24.0,Jacket,Clothing,2,2800,5600,Net Banking,East
+ORD1609,2023-12-14,CUST128,Male,23.0,Keyboard,Electronics,2,1200,2400,Cash,Central
+ORD1610,2023-12-06,CUST274,Female,38.0,Football,Sports,2,900,1800,Debit Card,Central
+ORD1611,2024-05-10,CUST108,Female,30.0,Water Bottle,Home & Kitchen,3,400,1200,Net Banking,North
+ORD1612,2024-02-12,CUST212,Female,18.0,Dumbbells,Sports,1,1400,1400,Credit Card,East
+ORD1613,2023-11-02,CUST111,Other,43.0,Mixer,Home & Kitchen,1,2400,2400,UPI,West
+ORD1614,2024-03-02,CUST124,Male,30.0,Jacket,Clothing,5,2800,14000,Debit Card,West
+ORD1615,2023-04-02,CUST278,Male,49.0,Headphones,Electronics,1,2500,2500,UPI,West
+ORD1616,2023-11-19,CUST253,Female,33.0,Lamp,Home & Kitchen,1,900,900,Net Banking,Central
+ORD1617,2024-01-02,CUST181,Female,62.0,Headphones,Electronics,2,2500,5000,Credit Card,West
+ORD1618,2024-03-14,CUST246,Other,43.0,Mouse,Electronics,1,700,700,Net Banking,West
+ORD1619,2024-12-26,CUST250,Male,36.0,Mixer,Home & Kitchen,3,2400,7200,Credit Card,West
+ORD1620,2024-11-29,CUST132,Female,54.0,Sunscreen,Beauty,4,550,2200,Credit Card,East
+ORD1621,2024-09-29,CUST186,Female,39.0,Keyboard,Electronics,5,1200,6000,Cash,East
+ORD1622,2023-03-26,CUST252,Male,23.0,Sneakers,Clothing,5,3200,16000,,East
+ORD1623,2024-10-19,CUST186,Male,38.0,Perfume,Beauty,3,1800,5400,UPI,East
+ORD1624,2023-10-30,CUST267,Male,24.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,West
+ORD1625,2023-09-02,CUST208,Male,38.0,Moisturizer,Beauty,1,450,450,Credit Card,Central
+ORD1626,2024-09-20,CUST191,Female,58.0,Lamp,Home & Kitchen,5,900,4500,Credit Card,North
+ORD1627,2023-09-06,CUST137,Male,28.0,T-Shirt,Clothing,3,600,1800,Credit Card,East
+ORD1628,2024-10-25,CUST118,Female,41.0,Keyboard,Electronics,1,1200,1200,Net Banking,East
+ORD1629,2024-03-04,CUST276,Female,60.0,Running Shoes,Sports,1,2900,2900,Credit Card,North
+ORD1630,2024-12-23,CUST124,Female,26.0,Shirt,Clothing,3,1100,3300,UPI,South
+ORD1631,2024-03-14,CUST245,Male,62.0,Mouse,Electronics,4,700,2800,Net Banking,
+ORD1632,2024-07-04,CUST130,Male,47.0,Laptop,Electronics,3,55000,165000,UPI,West
+ORD1633,2023-11-25,CUST114,Male,57.0,Lamp,Home & Kitchen,5,900,4500,UPI,Central
+ORD1634,2023-09-29,CUST242,Male,22.0,Sunscreen,Beauty,1,550,550,Net Banking,West
+ORD1635,2024-06-08,CUST103,Other,27.0,Shampoo,Beauty,5,320,1600,Net Banking,North
+ORD1636,2023-09-24,CUST198,Female,59.0,Yoga Mat,Sports,5,800,4000,Net Banking,West
+ORD1637,2023-03-15,CUST172,Female,19.0,Lamp,Home & Kitchen,5,900,4500,Cash,Central
+ORD1638,2023-07-16,CUST188,Male,37.0,Dumbbells,Sports,3,1400,4200,Cash,North
+ORD1639,2024-09-25,CUST202,Female,23.0,Laptop,Electronics,5,55000,275000,Debit Card,South
+ORD1640,2023-07-11,CUST168,Male,36.0,Keyboard,Electronics,4,1200,4800,UPI,West
+ORD1641,2023-07-02,CUST113,Male,55.0,Sunscreen,Beauty,3,550,1650,Cash,East
+ORD1642,2024-08-14,CUST182,Female,62.0,Moisturizer,Beauty,2,450,900,Net Banking,East
+ORD1643,2024-06-01,CUST251,Male,23.0,Sunscreen,Beauty,1,550,550,Net Banking,North
+ORD1644,2024-01-18,CUST214,Male,45.0,Keyboard,Electronics,2,1200,2400,Debit Card,East
+ORD1645,2024-11-18,CUST120,Female,56.0,Football,Sports,2,900,1800,Debit Card,East
+ORD1646,2024-09-12,CUST228,Female,25.0,Football,Sports,1,900,900,Cash,East
+ORD1647,2023-01-01,CUST298,Male,58.0,Gym Bag,Sports,3,1000,3000,Debit Card,East
+ORD1648,2024-07-28,CUST264,Female,34.0,Face Wash,Beauty,2,250,500,Debit Card,Central
+ORD1649,2024-11-17,CUST289,Male,31.0,Football,Sports,4,900,3600,Net Banking,Central
+ORD1650,2023-01-24,CUST215,Male,31.0,T-Shirt,Clothing,4,600,2400,Credit Card,East
+ORD1651,2024-12-02,CUST146,Female,51.0,Sunscreen,Beauty,3,550,1650,Net Banking,West
+ORD1652,2024-03-21,CUST178,Male,46.0,Mixer,Home & Kitchen,2,2400,4800,Credit Card,South
+ORD1653,2024-07-03,CUST113,Other,19.0,Shirt,Clothing,5,1100,5500,UPI,Central
+ORD1654,2024-08-19,CUST288,Female,52.0,Water Bottle,Home & Kitchen,4,400,1600,Net Banking,South
+ORD1655,2023-09-30,CUST179,Male,19.0,Mixer,Home & Kitchen,3,2400,7200,Cash,Central
+ORD1656,2023-11-21,CUST168,Female,33.0,Mixer,Home & Kitchen,1,2400,2400,Debit Card,North
+ORD1657,2024-03-01,CUST284,Male,60.0,Mixer,Home & Kitchen,5,2400,12000,Cash,South
+ORD1658,2024-06-13,CUST170,Female,50.0,Keyboard,Electronics,1,1200,1200,UPI,West
+ORD1659,2024-11-13,CUST158,Female,45.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,North
+ORD1660,2024-08-21,CUST213,Male,30.0,Sunscreen,Beauty,2,550,1100,Credit Card,Central
+ORD1661,2024-03-01,CUST178,Female,47.0,Moisturizer,Beauty,5,450,2250,Credit Card,South
+ORD1662,2024-09-09,CUST106,Female,39.0,Jacket,Clothing,2,2800,5600,Credit Card,North
+ORD1663,2023-12-29,CUST128,Female,31.0,Yoga Mat,Sports,4,800,3200,UPI,East
+ORD1664,2024-11-26,CUST278,Male,37.0,Jeans,Clothing,3,1600,4800,Debit Card,North
+ORD1665,2024-11-27,CUST282,Male,,Yoga Mat,Sports,3,800,2400,Net Banking,East
+ORD1666,2024-02-29,CUST141,Male,48.0,Gym Bag,Sports,3,1000,3000,Credit Card,South
+ORD1667,2024-07-21,CUST218,Male,61.0,T-Shirt,Clothing,3,600,1800,Credit Card,East
+ORD1668,2024-04-21,CUST297,Male,18.0,Face Wash,Beauty,4,250,1000,Debit Card,Central
+ORD1669,2023-03-02,CUST153,Male,33.0,Running Shoes,Sports,3,2900,8700,Cash,North
+ORD1670,2024-11-29,CUST122,Other,24.0,Moisturizer,Beauty,1,450,450,Cash,South
+ORD1671,2023-01-02,CUST109,Male,34.0,Sneakers,Clothing,3,3200,9600,Net Banking,West
+ORD1672,2023-05-09,CUST281,Male,23.0,Face Wash,Beauty,4,250,1000,Debit Card,South
+ORD1673,2024-04-05,CUST234,Male,44.0,T-Shirt,Clothing,2,600,1200,Credit Card,North
+ORD1674,2023-07-04,CUST168,Male,50.0,Smartphone,Electronics,3,22000,66000,Net Banking,South
+ORD1675,2024-06-29,CUST196,Female,40.0,Moisturizer,Beauty,5,450,2250,Debit Card,South
+ORD1676,2024-09-08,CUST100,Female,49.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,South
+ORD1677,2023-05-06,CUST287,Male,27.0,Lamp,Home & Kitchen,5,900,4500,Debit Card,South
+ORD1678,2023-02-01,CUST114,Female,45.0,Lamp,Home & Kitchen,1,900,900,UPI,East
+ORD1679,2023-04-24,CUST298,Male,42.0,Shampoo,Beauty,4,320,1280,Cash,South
+ORD1680,2023-04-11,CUST275,Male,55.0,Jeans,Clothing,1,1600,1600,UPI,Central
+ORD1681,2024-12-28,CUST156,Male,41.0,Mixer,Home & Kitchen,1,2400,2400,UPI,West
+ORD1682,2024-01-03,CUST193,Male,28.0,Gym Bag,Sports,2,1000,2000,Net Banking,Central
+ORD1683,2023-10-01,CUST141,Male,54.0,Shirt,Clothing,2,1100,2200,Net Banking,South
+ORD1684,2023-05-12,CUST181,Female,64.0,Laptop,Electronics,5,55000,275000,Debit Card,West
+ORD1685,2023-09-04,CUST118,Male,43.0,Keyboard,Electronics,4,1200,4800,UPI,South
+ORD1686,2023-12-04,CUST280,Male,50.0,Sneakers,Clothing,1,3200,3200,Credit Card,East
+ORD1687,2023-06-26,CUST283,Male,60.0,Mixer,Home & Kitchen,4,2400,9600,UPI,South
+ORD1688,2024-09-21,CUST106,Male,53.0,Sneakers,Clothing,4,3200,12800,Net Banking,North
+ORD1689,2023-07-19,CUST256,Male,23.0,Mouse,Electronics,2,700,1400,Cash,North
+ORD1690,2023-11-30,CUST298,Female,62.0,Mouse,Electronics,2,700,1400,Cash,East
+ORD1691,2024-04-03,CUST101,Male,47.0,Gym Bag,Sports,2,1000,2000,UPI,West
+ORD1692,2024-08-12,CUST225,Male,43.0,Yoga Mat,Sports,5,800,4000,Net Banking,West
+ORD1693,2024-04-01,CUST186,Male,40.0,Jeans,Clothing,2,1600,3200,UPI,West
+ORD1694,2024-07-11,CUST230,Female,57.0,Sunscreen,Beauty,3,550,1650,Credit Card,West
+ORD1695,2024-07-09,CUST233,Female,53.0,Jacket,Clothing,2,2800,5600,Credit Card,West
+ORD1696,2023-03-12,CUST147,Female,37.0,Perfume,Beauty,3,1800,5400,Debit Card,Central
+ORD1697,2024-06-06,CUST242,Male,22.0,Keyboard,Electronics,5,1200,6000,Net Banking,Central
+ORD1698,2024-06-12,CUST253,Male,38.0,Keyboard,Electronics,5,1200,6000,UPI,East
+ORD1699,2024-06-30,CUST218,Female,31.0,Shampoo,Beauty,5,320,1600,Credit Card,West
+ORD1700,2024-06-05,CUST221,Male,20.0,Mouse,Electronics,1,700,700,Debit Card,
+ORD1701,2024-02-01,CUST197,Male,39.0,Lamp,Home & Kitchen,2,900,1800,UPI,West
+ORD1702,2023-01-12,CUST180,Female,23.0,Bedsheet,Home & Kitchen,2,1300,2600,Net Banking,East
+ORD1703,2023-01-02,CUST107,Male,53.0,Mixer,Home & Kitchen,4,2400,9600,Credit Card,Central
+ORD1704,2024-04-04,CUST113,Female,38.0,Sunscreen,Beauty,5,550,2750,Net Banking,West
+ORD1705,2023-05-09,CUST253,Female,61.0,Sneakers,Clothing,1,3200,3200,Cash,South
+ORD1706,2023-02-20,CUST137,Female,27.0,Dumbbells,Sports,1,1400,1400,Net Banking,Central
+ORD1707,2023-01-18,CUST283,Female,49.0,T-Shirt,Clothing,3,600,1800,Cash,South
+ORD1708,2024-06-27,CUST125,Male,40.0,Laptop,Electronics,4,55000,220000,Credit Card,North
+ORD1709,2023-08-01,CUST101,Male,50.0,Smartphone,Electronics,1,22000,22000,Net Banking,
+ORD1710,2024-02-06,CUST209,Male,25.0,Bedsheet,Home & Kitchen,2,1300,2600,Net Banking,West
+ORD1711,2023-05-19,CUST293,Other,53.0,Sneakers,Clothing,1,3200,3200,UPI,Central
+ORD1712,2023-07-29,CUST193,Female,40.0,Sunscreen,Beauty,2,550,1100,Debit Card,North
+ORD1713,2024-06-13,CUST156,Female,43.0,Mouse,Electronics,5,700,3500,Net Banking,East
+ORD1714,2024-11-28,CUST175,Female,61.0,Jeans,Clothing,3,1600,4800,Cash,South
+ORD1715,2024-09-30,CUST234,Female,41.0,Sneakers,Clothing,2,3200,6400,Cash,West
+ORD1716,2024-05-31,CUST173,Female,58.0,Perfume,Beauty,5,1800,9000,Net Banking,South
+ORD1717,2023-09-12,CUST242,Male,38.0,Sunscreen,Beauty,3,550,1650,UPI,West
+ORD1718,2024-02-25,CUST250,Male,65.0,Jeans,Clothing,5,1600,8000,Net Banking,Central
+ORD1719,2023-05-24,CUST288,Other,57.0,Shirt,Clothing,3,1100,3300,Net Banking,South
+ORD1720,2023-12-23,CUST196,Male,29.0,Headphones,Electronics,2,2500,5000,Net Banking,West
+ORD1721,2024-04-26,CUST209,Male,56.0,Jacket,Clothing,5,2800,14000,Credit Card,Central
+ORD1722,2024-02-26,CUST167,Female,24.0,Moisturizer,Beauty,2,450,900,UPI,Central
+ORD1723,2024-01-12,CUST242,Female,22.0,Dumbbells,Sports,3,1400,4200,Net Banking,East
+ORD1724,2023-01-04,CUST194,Female,57.0,Jeans,Clothing,4,1600,6400,Cash,North
+ORD1725,2023-04-11,CUST294,Female,35.0,Jeans,Clothing,4,1600,6400,Debit Card,East
+ORD1726,2023-04-15,CUST103,Female,62.0,Mixer,Home & Kitchen,2,2400,4800,Credit Card,West
+ORD1727,2023-03-10,CUST197,Male,56.0,Sneakers,Clothing,4,3200,12800,Credit Card,North
+ORD1728,2024-11-16,CUST269,Female,43.0,Jacket,Clothing,3,2800,8400,UPI,West
+ORD1729,2023-07-18,CUST229,Female,57.0,Face Wash,Beauty,4,250,1000,Debit Card,East
+ORD1730,2024-04-18,CUST179,Female,30.0,Mixer,Home & Kitchen,4,2400,9600,Debit Card,West
+ORD1731,2024-12-07,CUST212,Male,29.0,Running Shoes,Sports,4,2900,11600,Net Banking,West
+ORD1732,2023-03-25,CUST250,Other,54.0,Dumbbells,Sports,5,1400,7000,Net Banking,North
+ORD1733,2024-02-18,CUST144,Male,53.0,Shirt,Clothing,3,1100,3300,Cash,West
+ORD1734,2023-01-07,CUST271,Male,51.0,Perfume,Beauty,4,1800,7200,Credit Card,Central
+ORD1735,2023-08-19,CUST296,Male,27.0,Mouse,Electronics,1,700,700,Debit Card,West
+ORD1736,2024-08-26,CUST212,Male,38.0,Perfume,Beauty,1,1800,1800,Net Banking,North
+ORD1737,2024-11-27,CUST161,Male,,Smartphone,Electronics,2,22000,44000,Debit Card,East
+ORD1738,2024-08-31,CUST289,Male,53.0,Face Wash,Beauty,5,250,1250,Credit Card,West
+ORD1739,2023-03-12,CUST285,Female,45.0,T-Shirt,Clothing,1,600,600,Cash,West
+ORD1740,2024-05-31,CUST219,Male,64.0,Mixer,Home & Kitchen,4,2400,9600,UPI,Central
+ORD1741,2023-08-25,CUST230,Female,52.0,Face Wash,Beauty,1,250,250,UPI,East
+ORD1742,2023-02-24,CUST279,Male,51.0,Perfume,Beauty,5,1800,9000,Net Banking,East
+ORD1743,2024-05-23,CUST165,Female,24.0,T-Shirt,Clothing,1,600,600,Credit Card,South
+ORD1744,2023-10-10,CUST274,Female,53.0,Yoga Mat,Sports,1,800,800,Debit Card,North
+ORD1745,2023-03-22,CUST138,Male,62.0,Mouse,Electronics,5,700,3500,Cash,North
+ORD1746,2024-12-28,CUST128,Male,41.0,Running Shoes,Sports,4,2900,11600,Net Banking,South
+ORD1747,2023-07-29,CUST116,Female,28.0,Keyboard,Electronics,4,1200,4800,Debit Card,North
+ORD1748,2023-09-28,CUST255,Female,52.0,Running Shoes,Sports,1,2900,2900,Debit Card,East
+ORD1749,2024-12-25,CUST276,Female,27.0,Sneakers,Clothing,1,3200,3200,Debit Card,East
+ORD1750,2023-01-27,CUST117,Female,46.0,Headphones,Electronics,2,2500,5000,Credit Card,West
+ORD1751,2024-02-06,CUST137,Male,26.0,Jeans,Clothing,4,1600,6400,Debit Card,North
+ORD1752,2024-08-16,CUST232,Female,47.0,Jacket,Clothing,3,2800,8400,Cash,West
+ORD1753,2023-07-13,CUST249,Male,65.0,Sneakers,Clothing,4,3200,12800,Cash,Central
+ORD1754,2023-01-01,CUST234,Male,29.0,Headphones,Electronics,1,2500,2500,Credit Card,Central
+ORD1755,2024-10-19,CUST293,Male,47.0,Shampoo,Beauty,4,320,1280,Cash,South
+ORD1756,2023-09-09,CUST218,Male,55.0,Face Wash,Beauty,3,250,750,Net Banking,South
+ORD1757,2023-03-19,CUST169,Female,49.0,Jeans,Clothing,4,1600,6400,Debit Card,East
+ORD1758,2024-08-01,CUST175,Female,34.0,Mouse,Electronics,3,700,2100,Net Banking,South
+ORD1759,2024-10-07,CUST168,Female,26.0,Laptop,Electronics,4,55000,220000,Debit Card,Central
+ORD1760,2024-04-27,CUST102,Male,54.0,Sneakers,Clothing,3,3200,9600,Debit Card,West
+ORD1761,2023-05-21,CUST254,Female,53.0,Shirt,Clothing,4,1100,4400,UPI,East
+ORD1762,2024-08-11,CUST279,Male,45.0,Cookware Set,Home & Kitchen,1,3500,3500,Debit Card,East
+ORD1763,2023-08-15,CUST287,Male,41.0,Moisturizer,Beauty,3,450,1350,Net Banking,West
+ORD1764,2024-11-23,CUST111,Female,27.0,Gym Bag,Sports,1,1000,1000,UPI,North
+ORD1765,2023-09-16,CUST219,Male,28.0,Perfume,Beauty,3,1800,5400,Net Banking,South
+ORD1766,2024-12-12,CUST130,Male,24.0,Cookware Set,Home & Kitchen,3,3500,10500,Net Banking,South
+ORD1767,2024-04-08,CUST252,Female,56.0,Running Shoes,Sports,1,2900,2900,UPI,Central
+ORD1768,2023-03-11,CUST265,Female,39.0,Gym Bag,Sports,3,1000,3000,Cash,North
+ORD1769,2024-08-06,CUST264,Female,50.0,T-Shirt,Clothing,5,600,3000,Credit Card,Central
+ORD1770,2024-04-22,CUST163,Female,59.0,Smartphone,Electronics,5,22000,110000,Debit Card,West
+ORD1771,2024-09-01,CUST255,Female,30.0,Face Wash,Beauty,3,250,750,UPI,East
+ORD1772,2023-10-28,CUST247,Female,44.0,Running Shoes,Sports,5,2900,14500,Credit Card,Central
+ORD1773,2023-07-06,CUST137,Male,45.0,Mouse,Electronics,5,700,3500,Credit Card,Central
+ORD1774,2024-07-29,CUST192,Female,56.0,Shampoo,Beauty,3,320,960,Cash,East
+ORD1775,2024-06-06,CUST196,Other,28.0,Perfume,Beauty,4,1800,7200,Debit Card,North
+ORD1776,2023-06-13,CUST210,Female,18.0,Shampoo,Beauty,3,320,960,Debit Card,East
+ORD1777,2023-02-12,CUST183,Male,19.0,Mixer,Home & Kitchen,1,2400,2400,Credit Card,West
+ORD1778,2023-09-15,CUST261,Male,48.0,Cookware Set,Home & Kitchen,5,3500,17500,Credit Card,South
+ORD1779,2024-05-09,CUST169,Female,20.0,Shirt,Clothing,1,1100,1100,Credit Card,Central
+ORD1780,2023-12-12,CUST125,Male,32.0,Shirt,Clothing,5,1100,5500,Debit Card,North
+ORD1781,2023-02-16,CUST194,Other,33.0,Keyboard,Electronics,4,1200,4800,Debit Card,Central
+ORD1782,2024-11-28,CUST161,Male,63.0,Football,Sports,2,900,1800,UPI,East
+ORD1783,2023-07-18,CUST163,Male,25.0,T-Shirt,Clothing,5,600,3000,Debit Card,Central
+ORD1784,2023-10-29,CUST130,Female,46.0,Sunscreen,Beauty,2,550,1100,UPI,South
+ORD1785,2023-12-31,CUST217,Male,24.0,Sunscreen,Beauty,4,550,2200,UPI,Central
+ORD1786,2023-08-13,CUST172,Male,44.0,Headphones,Electronics,5,2500,12500,Net Banking,South
+ORD1787,2023-08-08,CUST171,Female,22.0,T-Shirt,Clothing,3,600,1800,Credit Card,South
+ORD1788,2024-06-20,CUST172,Female,18.0,Jacket,Clothing,2,2800,5600,Credit Card,South
+ORD1789,2023-01-06,CUST224,Male,19.0,Smartphone,Electronics,3,22000,66000,Credit Card,South
+ORD1790,2024-10-23,CUST136,Female,41.0,Cookware Set,Home & Kitchen,4,3500,14000,Cash,North
+ORD1791,2023-04-27,CUST215,Female,58.0,Keyboard,Electronics,1,1200,1200,Debit Card,East
+ORD1792,2024-03-24,CUST123,Male,52.0,Headphones,Electronics,5,2500,12500,Cash,West
+ORD1793,2023-08-31,CUST281,Female,32.0,Football,Sports,1,900,900,UPI,South
+ORD1794,2024-08-02,CUST142,Female,30.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,East
+ORD1795,2023-06-27,CUST298,Male,20.0,T-Shirt,Clothing,2,600,1200,Cash,North
+ORD1796,2024-03-30,CUST259,Other,53.0,Gym Bag,Sports,2,1000,2000,Cash,Central
+ORD1797,2024-03-14,CUST179,Male,18.0,Jacket,Clothing,4,2800,11200,Net Banking,East
+ORD1798,2024-01-07,CUST200,Male,53.0,Keyboard,Electronics,5,1200,6000,Cash,West
+ORD1799,2024-04-08,CUST268,Male,19.0,Jeans,Clothing,2,1600,3200,Net Banking,West
+ORD1800,2024-08-19,CUST116,Female,48.0,Perfume,Beauty,2,1800,3600,Debit Card,North
+ORD1801,2024-05-28,CUST275,Female,50.0,T-Shirt,Clothing,5,600,3000,Debit Card,South
+ORD1802,2024-05-28,CUST140,Female,54.0,Moisturizer,Beauty,4,450,1800,Credit Card,West
+ORD1803,2024-01-24,CUST180,Male,49.0,Lamp,Home & Kitchen,3,900,2700,Credit Card,East
+ORD1804,2024-10-10,CUST276,Male,53.0,Smartphone,Electronics,2,22000,44000,Credit Card,North
+ORD1805,2023-04-24,CUST252,Male,59.0,Shirt,Clothing,5,1100,5500,Net Banking,Central
+ORD1806,2023-06-21,CUST174,Female,59.0,Jeans,Clothing,1,1600,1600,Net Banking,South
+ORD1807,2023-04-22,CUST156,Male,21.0,Running Shoes,Sports,2,2900,5800,UPI,West
+ORD1808,2023-08-24,CUST232,Male,48.0,Sneakers,Clothing,2,3200,6400,Net Banking,North
+ORD1809,2024-06-25,CUST213,Male,20.0,Laptop,Electronics,3,55000,165000,Credit Card,North
+ORD1810,2024-01-21,CUST161,Male,21.0,T-Shirt,Clothing,2,600,1200,UPI,East
+ORD1811,2023-11-07,CUST236,Male,58.0,Headphones,Electronics,3,2500,7500,Cash,West
+ORD1812,2024-09-13,CUST168,Male,61.0,Shampoo,Beauty,5,320,1600,Credit Card,East
+ORD1813,2023-10-13,CUST170,Male,20.0,Jeans,Clothing,5,1600,8000,Net Banking,East
+ORD1814,2023-07-07,CUST285,Female,29.0,Water Bottle,Home & Kitchen,3,400,1200,UPI,West
+ORD1815,2024-10-19,CUST184,Female,63.0,Cookware Set,Home & Kitchen,2,3500,7000,Cash,Central
+ORD1816,2023-09-12,CUST224,Male,25.0,Jeans,Clothing,3,1600,4800,Credit Card,North
+ORD1817,2024-05-02,CUST124,Female,28.0,Football,Sports,4,900,3600,Debit Card,East
+ORD1818,2024-12-02,CUST182,Female,59.0,Mouse,Electronics,3,700,2100,Net Banking,West
+ORD1819,2024-08-31,CUST210,Other,24.0,Moisturizer,Beauty,5,450,2250,Credit Card,West
+ORD1820,2024-11-19,CUST125,Female,32.0,Jeans,Clothing,4,1600,6400,Net Banking,West
+ORD1821,2023-01-18,CUST216,Female,33.0,Mixer,Home & Kitchen,3,2400,7200,Net Banking,North
+ORD1822,2024-02-26,CUST229,Female,63.0,Mixer,Home & Kitchen,1,2400,2400,Credit Card,South
+ORD1823,2023-03-13,CUST173,Male,46.0,Moisturizer,Beauty,1,450,450,Credit Card,South
+ORD1824,2024-10-24,CUST275,Male,42.0,Bedsheet,Home & Kitchen,3,1300,3900,Net Banking,Central
+ORD1825,2024-06-04,CUST178,Male,42.0,Shirt,Clothing,3,1100,3300,Net Banking,South
+ORD1826,2023-05-11,CUST219,Female,65.0,Shampoo,Beauty,3,320,960,UPI,East
+ORD1827,2024-04-04,CUST232,Other,47.0,Laptop,Electronics,4,55000,220000,Cash,Central
+ORD1828,2024-12-22,CUST111,Male,19.0,Running Shoes,Sports,5,2900,14500,Net Banking,Central
+ORD1829,2023-05-19,CUST157,Male,52.0,Jacket,Clothing,4,2800,11200,Cash,South
+ORD1830,2023-07-11,CUST259,Male,19.0,Dumbbells,Sports,1,1400,1400,Credit Card,East
+ORD1831,2024-05-20,CUST177,Female,65.0,Shirt,Clothing,3,1100,3300,UPI,Central
+ORD1832,2024-01-28,CUST137,Female,18.0,Cookware Set,Home & Kitchen,2,3500,7000,Net Banking,East
+ORD1833,2024-06-23,CUST272,Female,57.0,Running Shoes,Sports,4,2900,11600,Credit Card,West
+ORD1834,2023-09-05,CUST145,Female,47.0,Headphones,Electronics,2,2500,5000,Net Banking,North
+ORD1835,2023-12-13,CUST293,Female,50.0,Gym Bag,Sports,3,1000,3000,Net Banking,East
+ORD1836,2023-05-10,CUST204,Male,19.0,Football,Sports,1,900,900,Net Banking,Central
+ORD1837,2023-12-07,CUST192,Female,55.0,Sneakers,Clothing,5,3200,16000,Cash,South
+ORD1838,2024-03-29,CUST268,Male,50.0,Laptop,Electronics,2,55000,110000,UPI,East
+ORD1839,2024-07-13,CUST252,Male,52.0,Football,Sports,4,900,3600,Cash,Central
+ORD1840,2024-11-17,CUST281,Female,37.0,Water Bottle,Home & Kitchen,1,400,400,Net Banking,North
+ORD1841,2024-05-22,CUST115,Male,29.0,Mouse,Electronics,4,700,2800,Net Banking,Central
+ORD1842,2024-10-10,CUST227,Female,49.0,Laptop,Electronics,4,55000,220000,Credit Card,West
+ORD1843,2023-11-26,CUST123,Female,35.0,Smartphone,Electronics,1,22000,22000,Cash,South
+ORD1844,2024-06-24,CUST250,Female,32.0,Keyboard,Electronics,2,1200,2400,UPI,North
+ORD1845,2023-07-05,CUST241,Female,47.0,Face Wash,Beauty,1,250,250,Debit Card,Central
+ORD1846,2024-10-24,CUST289,Female,56.0,Water Bottle,Home & Kitchen,2,400,800,Credit Card,North
+ORD1847,2024-06-14,CUST169,Female,54.0,Shirt,Clothing,1,1100,1100,Credit Card,West
+ORD1848,2023-12-10,CUST184,Male,33.0,Cookware Set,Home & Kitchen,2,3500,7000,Credit Card,Central
+ORD1849,2023-01-16,CUST267,Male,52.0,T-Shirt,Clothing,3,600,1800,UPI,Central
+ORD1850,2023-10-15,CUST140,Female,44.0,Running Shoes,Sports,1,2900,2900,Cash,North
+ORD1851,2023-09-16,CUST297,Male,18.0,Headphones,Electronics,5,2500,12500,Net Banking,Central
+ORD1852,2023-05-01,CUST241,Female,24.0,Perfume,Beauty,2,1800,3600,Credit Card,East
+ORD1853,2023-08-20,CUST263,Male,65.0,Dumbbells,Sports,1,1400,1400,Net Banking,East
+ORD1854,2023-02-06,CUST125,Female,52.0,Sneakers,Clothing,2,3200,6400,Cash,South
+ORD1855,2023-08-23,CUST290,Female,65.0,Water Bottle,Home & Kitchen,4,400,1600,Cash,East
+ORD1856,2024-11-07,CUST128,Female,43.0,Keyboard,Electronics,5,1200,6000,Cash,South
+ORD1857,2023-08-02,CUST149,Male,43.0,Lamp,Home & Kitchen,4,900,3600,Debit Card,East
+ORD1858,2024-10-09,CUST256,Male,35.0,Cookware Set,Home & Kitchen,3,3500,10500,Credit Card,South
+ORD1859,2024-12-03,CUST207,Female,56.0,Bedsheet,Home & Kitchen,3,1300,3900,Cash,East
+ORD1860,2023-06-20,CUST114,Male,39.0,Smartphone,Electronics,2,22000,44000,Net Banking,West
+ORD1861,2023-03-10,CUST103,Male,25.0,Dumbbells,Sports,5,1400,7000,UPI,North
+ORD1862,2024-10-19,CUST196,Male,34.0,Gym Bag,Sports,5,1000,5000,Debit Card,South
+ORD1863,2024-09-03,CUST111,Male,19.0,Football,Sports,4,900,3600,Net Banking,North
+ORD1864,2023-06-07,CUST259,Female,41.0,Lamp,Home & Kitchen,4,900,3600,Debit Card,South
+ORD1865,2023-08-02,CUST123,Male,61.0,Mouse,Electronics,3,700,2100,Cash,North
+ORD1866,2024-11-04,CUST238,Female,52.0,Running Shoes,Sports,5,2900,14500,Cash,Central
+ORD1867,2023-07-25,CUST123,Female,62.0,Football,Sports,2,900,1800,Net Banking,West
+ORD1868,2023-11-01,CUST197,Male,56.0,Shirt,Clothing,1,1100,1100,Credit Card,North
+ORD1869,2024-05-25,CUST152,Male,21.0,Sunscreen,Beauty,4,550,2200,Credit Card,South
+ORD1870,2023-07-16,CUST166,Female,64.0,T-Shirt,Clothing,4,600,2400,Credit Card,South
+ORD1871,2024-04-15,CUST106,Female,24.0,Sunscreen,Beauty,3,550,1650,Credit Card,South
+ORD1872,2023-07-29,CUST140,Male,59.0,Face Wash,Beauty,3,250,750,UPI,West
+ORD1873,2023-02-08,CUST218,Male,44.0,Laptop,Electronics,3,55000,165000,Credit Card,West
+ORD1874,2024-09-26,CUST260,Female,36.0,Lamp,Home & Kitchen,5,900,4500,Debit Card,Central
+ORD1875,2024-12-16,CUST153,Female,57.0,Football,Sports,2,900,1800,Cash,Central
+ORD1876,2024-01-02,CUST101,Male,27.0,Dumbbells,Sports,1,1400,1400,Credit Card,West
+ORD1877,2024-09-14,CUST105,Male,57.0,Water Bottle,Home & Kitchen,4,400,1600,Net Banking,East
+ORD1878,2024-05-14,CUST132,Male,49.0,Mixer,Home & Kitchen,3,2400,7200,Net Banking,North
+ORD1879,2024-09-01,CUST236,Male,52.0,T-Shirt,Clothing,2,600,1200,Credit Card,Central
+ORD1880,2023-11-19,CUST289,Male,41.0,Dumbbells,Sports,1,1400,1400,Credit Card,East
+ORD1881,2024-07-14,CUST145,Male,54.0,Moisturizer,Beauty,3,450,1350,Debit Card,West
+ORD1882,2023-06-10,CUST274,Female,33.0,Sneakers,Clothing,1,3200,3200,Net Banking,North
+ORD1883,2023-07-24,CUST248,Male,22.0,T-Shirt,Clothing,5,600,3000,Credit Card,East
+ORD1884,2023-08-27,CUST145,Male,26.0,Mixer,Home & Kitchen,4,2400,9600,UPI,North
+ORD1885,2024-11-19,CUST276,Other,53.0,Sneakers,Clothing,2,3200,6400,Net Banking,South
+ORD1886,2023-09-10,CUST129,Female,52.0,Laptop,Electronics,4,55000,220000,Net Banking,West
+ORD1887,2023-03-21,CUST234,Male,28.0,Bedsheet,Home & Kitchen,4,1300,5200,UPI,South
+ORD1888,2023-01-07,CUST227,Male,56.0,Moisturizer,Beauty,4,450,1800,Credit Card,South
+ORD1889,2023-11-29,CUST282,Male,42.0,Mixer,Home & Kitchen,2,2400,4800,Cash,North
+ORD1890,2023-10-11,CUST287,Male,48.0,Water Bottle,Home & Kitchen,2,400,800,UPI,West
+ORD1891,2023-01-23,CUST299,Female,31.0,Gym Bag,Sports,1,1000,1000,Debit Card,North
+ORD1892,2023-01-31,CUST221,Female,22.0,Smartphone,Electronics,5,22000,110000,Net Banking,West
+ORD1893,2023-02-16,CUST170,Female,20.0,Moisturizer,Beauty,3,450,1350,Net Banking,Central
+ORD1894,2024-08-25,CUST132,Female,59.0,Face Wash,Beauty,4,250,1000,Cash,East
+ORD1895,2024-01-16,CUST212,Female,46.0,Sneakers,Clothing,2,3200,6400,Credit Card,West
+ORD1896,2024-09-08,CUST199,Male,61.0,Football,Sports,5,900,4500,Cash,West
+ORD1897,2024-11-18,CUST239,Female,56.0,Laptop,Electronics,2,55000,110000,Credit Card,South
+ORD1898,2023-08-14,CUST281,Male,22.0,Running Shoes,Sports,3,2900,8700,Credit Card,North
+ORD1899,2023-03-27,CUST258,Female,29.0,Jeans,Clothing,4,1600,6400,Net Banking,West
+ORD1900,2024-10-10,CUST157,Male,33.0,Lamp,Home & Kitchen,5,900,4500,Debit Card,West
+ORD1901,2023-06-11,CUST174,Female,50.0,Smartphone,Electronics,2,22000,44000,Debit Card,West
+ORD1902,2023-11-14,CUST122,Female,24.0,Shampoo,Beauty,1,320,320,UPI,Central
+ORD1903,2023-04-23,CUST143,Female,47.0,Sneakers,Clothing,2,3200,6400,UPI,East
+ORD1904,2023-02-14,CUST207,Male,53.0,Sneakers,Clothing,2,3200,6400,Credit Card,East
+ORD1905,2024-12-02,CUST274,Female,54.0,Bedsheet,Home & Kitchen,1,1300,1300,UPI,West
+ORD1906,2024-08-16,CUST280,Female,36.0,Keyboard,Electronics,3,1200,3600,Credit Card,West
+ORD1907,2024-01-31,CUST237,Female,18.0,T-Shirt,Clothing,1,600,600,UPI,West
+ORD1908,2024-09-30,CUST192,Male,50.0,Sneakers,Clothing,1,3200,3200,Credit Card,
+ORD1909,2023-08-08,CUST284,Male,36.0,Keyboard,Electronics,4,1200,4800,Credit Card,Central
+ORD1910,2023-10-17,CUST298,Male,46.0,Laptop,Electronics,4,55000,220000,Net Banking,South
+ORD1911,2024-06-29,CUST202,Female,46.0,Laptop,Electronics,3,55000,165000,Credit Card,Central
+ORD1912,2024-08-15,CUST248,Male,36.0,Smartphone,Electronics,5,22000,110000,Net Banking,Central
+ORD1913,2024-06-21,CUST170,Female,36.0,Bedsheet,Home & Kitchen,5,1300,6500,Debit Card,Central
+ORD1914,2023-11-20,CUST285,Other,54.0,Mouse,Electronics,3,700,2100,Net Banking,West
+ORD1915,2023-05-07,CUST292,Female,35.0,Mixer,Home & Kitchen,1,2400,2400,Credit Card,West
+ORD1916,2023-12-06,CUST292,Male,35.0,Face Wash,Beauty,5,250,1250,UPI,East
+ORD1917,2024-10-18,CUST185,Female,19.0,Water Bottle,Home & Kitchen,4,400,1600,Net Banking,West
+ORD1918,2024-12-17,CUST217,Male,42.0,Sneakers,Clothing,5,3200,16000,Credit Card,West
+ORD1919,2023-05-29,CUST145,Female,33.0,Sneakers,Clothing,1,3200,3200,Cash,Central
+ORD1920,2023-10-02,CUST196,Female,39.0,Jacket,Clothing,1,2800,2800,Cash,South
+ORD1921,2023-05-21,CUST132,Male,30.0,Mixer,Home & Kitchen,3,2400,7200,Debit Card,North
+ORD1922,2023-11-15,CUST212,Female,65.0,Jacket,Clothing,3,2800,8400,Cash,West
+ORD1923,2023-06-26,CUST184,Female,37.0,Moisturizer,Beauty,1,450,450,Debit Card,North
+ORD1924,2023-12-29,CUST223,Female,41.0,Cookware Set,Home & Kitchen,2,3500,7000,Cash,East
+ORD1925,2023-09-06,CUST136,Male,23.0,Keyboard,Electronics,2,1200,2400,Credit Card,North
+ORD1926,2023-02-20,CUST275,Female,23.0,Smartphone,Electronics,2,22000,44000,Debit Card,South
+ORD1927,2024-12-16,CUST265,Female,59.0,Sunscreen,Beauty,2,550,1100,Credit Card,East
+ORD1928,2023-05-26,CUST268,Female,41.0,Face Wash,Beauty,5,250,1250,UPI,Central
+ORD1929,2023-08-18,CUST114,Female,48.0,Headphones,Electronics,2,2500,5000,Debit Card,East
+ORD1930,2023-05-18,CUST265,Female,24.0,Sneakers,Clothing,4,3200,12800,Credit Card,South
+ORD1931,2023-02-12,CUST253,Male,47.0,Jeans,Clothing,4,1600,6400,Credit Card,Central
+ORD1932,2024-04-11,CUST229,Male,40.0,Jeans,Clothing,1,1600,1600,Net Banking,West
+ORD1933,2024-10-02,CUST129,Male,41.0,Sneakers,Clothing,2,3200,6400,Cash,Central
+ORD1934,2023-07-27,CUST123,Female,43.0,Headphones,Electronics,5,2500,12500,Credit Card,North
+ORD1935,2024-06-24,CUST264,Female,56.0,Jacket,Clothing,3,2800,8400,Credit Card,West
+ORD1936,2023-05-18,CUST286,Female,29.0,Moisturizer,Beauty,4,450,1800,Credit Card,South
+ORD1937,2023-02-25,CUST221,Male,34.0,Moisturizer,Beauty,1,450,450,Cash,East
+ORD1938,2024-10-02,CUST172,Male,36.0,Jeans,Clothing,1,1600,1600,Cash,West
+ORD1939,2023-04-15,CUST249,Male,59.0,Running Shoes,Sports,1,2900,2900,Debit Card,North
+ORD1940,2024-01-06,CUST136,Female,54.0,Smartphone,Electronics,1,22000,22000,Net Banking,North
+ORD1941,2024-11-03,CUST165,Female,37.0,Water Bottle,Home & Kitchen,5,400,2000,Cash,South
+ORD1942,2023-02-06,CUST231,Female,30.0,Mouse,Electronics,4,700,2800,Credit Card,Central
+ORD1943,2024-07-23,CUST300,Female,56.0,Jeans,Clothing,1,1600,1600,Net Banking,South
+ORD1944,2024-11-30,CUST210,Other,22.0,Gym Bag,Sports,1,1000,1000,UPI,South
+ORD1945,2023-10-08,CUST204,Male,51.0,Mixer,Home & Kitchen,4,2400,9600,UPI,West
+ORD1946,2024-11-30,CUST169,Male,51.0,Laptop,Electronics,3,55000,165000,UPI,Central
+ORD1947,2024-06-03,CUST253,Male,38.0,Lamp,Home & Kitchen,4,900,3600,Cash,West
+ORD1948,2023-04-14,CUST269,Male,35.0,Lamp,Home & Kitchen,3,900,2700,Credit Card,South
+ORD1949,2023-03-06,CUST114,Male,37.0,Laptop,Electronics,5,55000,275000,Credit Card,North
+ORD1950,2023-11-13,CUST109,Male,18.0,Yoga Mat,Sports,2,800,1600,Net Banking,North
+ORD1951,2024-06-18,CUST208,Male,51.0,Face Wash,Beauty,4,250,1000,Net Banking,East
+ORD1952,2023-05-03,CUST163,Female,64.0,Bedsheet,Home & Kitchen,5,1300,6500,UPI,South
+ORD1953,2024-12-09,CUST297,Male,34.0,Perfume,Beauty,3,1800,5400,Debit Card,West
+ORD1954,2023-05-12,CUST199,Female,42.0,Shampoo,Beauty,5,320,1600,Debit Card,North
+ORD1955,2023-02-12,CUST173,Other,23.0,Sunscreen,Beauty,2,550,1100,Credit Card,South
+ORD1956,2023-01-01,CUST171,Female,30.0,Mouse,Electronics,4,700,2800,Net Banking,West
+ORD1957,2023-05-27,CUST265,Female,60.0,Gym Bag,Sports,2,1000,2000,Cash,West
+ORD1958,2023-12-20,CUST253,Female,63.0,Yoga Mat,Sports,2,800,1600,Debit Card,South
+ORD1959,2023-11-22,CUST177,Female,,Shirt,Clothing,5,1100,5500,UPI,East
+ORD1960,2024-02-18,CUST252,Female,24.0,Face Wash,Beauty,5,250,1250,Credit Card,North
+ORD1961,2024-11-11,CUST122,Female,42.0,Dumbbells,Sports,2,1400,2800,Credit Card,South
+ORD1962,2024-02-23,CUST268,Male,38.0,Lamp,Home & Kitchen,5,900,4500,Credit Card,East
+ORD1963,2023-06-05,CUST264,Female,58.0,Jeans,Clothing,2,1600,3200,Credit Card,West
+ORD1964,2023-09-27,CUST137,Male,34.0,Jeans,Clothing,3,1600,4800,Debit Card,South
+ORD1965,2023-10-12,CUST117,Female,31.0,Mixer,Home & Kitchen,3,2400,7200,Credit Card,North
+ORD1966,2023-07-05,CUST227,Female,42.0,Dumbbells,Sports,2,1400,2800,Net Banking,East
+ORD1967,2023-08-24,CUST185,Male,34.0,Football,Sports,3,900,2700,Debit Card,North
+ORD1968,2024-11-07,CUST238,Female,64.0,Water Bottle,Home & Kitchen,4,400,1600,Debit Card,West
+ORD1969,2023-02-16,CUST193,Female,65.0,Jacket,Clothing,4,2800,11200,,Central
+ORD1970,2024-10-12,CUST224,Male,29.0,Running Shoes,Sports,4,2900,11600,UPI,Central
+ORD1971,2024-07-04,CUST157,Male,36.0,Shampoo,Beauty,2,320,640,UPI,Central
+ORD1972,2024-07-31,CUST109,Female,30.0,Headphones,Electronics,5,2500,12500,Credit Card,North
+ORD1973,2023-05-23,CUST195,Male,41.0,Gym Bag,Sports,4,1000,4000,Net Banking,East
+ORD1974,2023-08-12,CUST142,Male,20.0,Dumbbells,Sports,1,1400,1400,Net Banking,West
+ORD1975,2023-06-26,CUST162,Male,50.0,Football,Sports,5,900,4500,Debit Card,West
+ORD1976,2024-04-07,CUST298,Male,59.0,Lamp,Home & Kitchen,1,900,900,UPI,West
+ORD1977,2023-03-29,CUST156,Female,39.0,T-Shirt,Clothing,4,600,2400,Cash,North
+ORD1978,2023-12-09,CUST232,Male,42.0,Yoga Mat,Sports,2,800,1600,Net Banking,West
+ORD1979,2023-04-12,CUST153,Female,35.0,Face Wash,Beauty,3,250,750,UPI,South
+ORD1980,2024-07-22,CUST126,Male,22.0,Yoga Mat,Sports,1,800,800,Debit Card,North
+ORD1981,2023-03-17,CUST257,Male,20.0,Jacket,Clothing,5,2800,14000,UPI,South
+ORD1982,2023-01-23,CUST122,Male,33.0,Mouse,Electronics,2,700,1400,UPI,Central
+ORD1983,2023-07-28,CUST137,Female,35.0,Keyboard,Electronics,4,1200,4800,Debit Card,North
+ORD1984,2023-10-27,CUST209,Female,41.0,Perfume,Beauty,3,1800,5400,Cash,East
+ORD1985,2023-05-28,CUST208,Male,29.0,Cookware Set,Home & Kitchen,4,3500,14000,Credit Card,West
+ORD1986,2023-09-25,CUST248,Male,26.0,Headphones,Electronics,1,2500,2500,Credit Card,North
+ORD1987,2023-07-28,CUST124,Male,22.0,Face Wash,Beauty,1,250,250,Net Banking,North
+ORD1988,2023-05-24,CUST132,Male,63.0,Yoga Mat,Sports,2,800,1600,UPI,South
+ORD1989,2024-04-08,CUST113,Female,64.0,Dumbbells,Sports,4,1400,5600,Debit Card,South
+ORD1990,2024-12-27,CUST171,Male,21.0,Jeans,Clothing,3,1600,4800,Net Banking,South
+ORD1991,2023-12-12,CUST180,Male,49.0,Sunscreen,Beauty,1,550,550,Cash,Central
+ORD1992,2024-10-25,CUST187,Female,39.0,Lamp,Home & Kitchen,3,900,2700,Credit Card,North
+ORD1993,2024-10-01,CUST127,Male,48.0,Yoga Mat,Sports,4,800,3200,Cash,South
+ORD1994,2024-03-06,CUST137,Male,23.0,Water Bottle,Home & Kitchen,2,400,800,Cash,Central
+ORD1995,2023-12-01,CUST130,Female,58.0,Dumbbells,Sports,4,1400,5600,Credit Card,South
+ORD1996,2024-09-22,CUST166,Male,32.0,Running Shoes,Sports,5,2900,14500,Net Banking,West
+ORD1997,2024-01-28,CUST205,Female,40.0,Sunscreen,Beauty,4,550,2200,Net Banking,Central
+ORD1998,2023-08-06,CUST260,Male,60.0,Bedsheet,Home & Kitchen,2,1300,2600,Credit Card,South
+ORD1999,2023-11-09,CUST208,Female,24.0,Jeans,Clothing,3,1600,4800,UPI,Central
+ORD2000,2023-12-17,CUST279,Male,52.0,Moisturizer,Beauty,1,450,450,Net Banking,Central
+ORD1779,2024-05-09,CUST169,Female,20.0,Shirt,Clothing,1,1100,1100,Credit Card,Central
+ORD1335,2024-07-29,CUST168,Female,65.0,T-Shirt,Clothing,1,600,600,Cash,West
+ORD1272,2024-12-04,CUST118,Male,53.0,Shampoo,Beauty,5,320,1600,UPI,North
+ORD1803,2024-01-24,CUST180,Male,49.0,Lamp,Home & Kitchen,3,900,2700,Credit Card,East
+ORD1217,2024-07-12,CUST222,Male,39.0,Shirt,Clothing,2,1100,2200,Net Banking,West
